@@ -1,0 +1,2602 @@
+[
+  {
+    "id": "T1",
+    "topic": "theory",
+    "stem": "Khái niệm nào chỉ cái riêng biệt, không lặp lại hoàn toàn ở cá thể?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Cái chung"
+      },
+      {
+        "id": "o2",
+        "text": "Cái riêng"
+      },
+      {
+        "id": "o3",
+        "text": "Cái đơn nhất"
+      },
+      {
+        "id": "o4",
+        "text": "Bản chất"
+      }
+    ],
+    "answer": "o3",
+    "explanation": "Cái đơn nhất gắn với sự vật cá thể ở tính không lặp lại hoàn toàn.",
+    "difficulty": 2
+  },
+  {
+    "id": "T2",
+    "topic": "theory",
+    "stem": "Phủ định biện chứng được hiểu là:",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Phủ định sạch trơn cái cũ"
+      },
+      {
+        "id": "o2",
+        "text": "Kế thừa và vượt qua cái cũ trên cơ sở mới"
+      },
+      {
+        "id": "o3",
+        "text": "Bảo tồn nguyên vẹn cái cũ"
+      },
+      {
+        "id": "o4",
+        "text": "Bỏ qua lịch sử"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Phủ định biện chứng là kế thừa hạt nhân hợp lý và vượt qua hạn chế của cái cũ.",
+    "difficulty": 1
+  },
+  {
+    "id": "T3",
+    "topic": "theory",
+    "stem": "Nguồn gốc bên trong của sự vận động và phát triển theo phép biện chứng duy vật là gì?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Tác động ngẫu nhiên từ bên ngoài"
+      },
+      {
+        "id": "o2",
+        "text": "Mâu thuẫn nội tại của sự vật"
+      },
+      {
+        "id": "o3",
+        "text": "Ý thức chủ quan của con người"
+      },
+      {
+        "id": "o4",
+        "text": "Điều kiện xã hội"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Mâu thuẫn nội tại là nguồn gốc bên trong của vận động và phát triển.",
+    "difficulty": 2
+  },
+  {
+    "id": "T4",
+    "topic": "theory",
+    "stem": "Quan hệ đúng giữa nội dung và hình thức là:",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Hình thức quyết định tuyệt đối nội dung"
+      },
+      {
+        "id": "o2",
+        "text": "Nội dung quyết định hình thức nhưng hình thức có tính độc lập tương đối"
+      },
+      {
+        "id": "o3",
+        "text": "Hai mặt không liên hệ"
+      },
+      {
+        "id": "o4",
+        "text": "Chỉ có nội dung tồn tại"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Nội dung đóng vai trò quyết định; hình thức có thể tác động trở lại và cần phù hợp nội dung.",
+    "difficulty": 1
+  },
+  {
+    "id": "T5",
+    "topic": "theory",
+    "stem": "Phát biểu đúng về hình thức của bước nhảy:",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Chỉ có bước nhảy đột biến lớn"
+      },
+      {
+        "id": "o2",
+        "text": "Bước nhảy có thể tiệm tiến hoặc đột biến tuỳ điều kiện"
+      },
+      {
+        "id": "o3",
+        "text": "Bước nhảy luôn tuyến tính"
+      },
+      {
+        "id": "o4",
+        "text": "Không có bước nhảy"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Bước nhảy có thể diễn ra tiệm tiến hoặc đột biến tuỳ thuộc điều kiện và cấu trúc sự vật.",
+    "difficulty": 2
+  },
+  {
+    "id": "T6",
+    "topic": "theory",
+    "stem": "Phủ định biện chứng được hiểu là:",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Phủ định sạch trơn cái cũ"
+      },
+      {
+        "id": "o2",
+        "text": "Kế thừa và vượt qua cái cũ trên cơ sở mới"
+      },
+      {
+        "id": "o3",
+        "text": "Bảo tồn nguyên vẹn cái cũ"
+      },
+      {
+        "id": "o4",
+        "text": "Bỏ qua lịch sử"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Phủ định biện chứng là kế thừa hạt nhân hợp lý và vượt qua hạn chế của cái cũ.",
+    "difficulty": 1
+  },
+  {
+    "id": "T7",
+    "topic": "theory",
+    "stem": "Mối quan hệ đúng nhất giữa cái chung và cái riêng là gì?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Cái chung tồn tại ngoài cái riêng"
+      },
+      {
+        "id": "o2",
+        "text": "Cái chung chỉ tồn tại trong cái riêng và qua cái riêng biểu hiện"
+      },
+      {
+        "id": "o3",
+        "text": "Cái riêng bao hàm mọi cái chung"
+      },
+      {
+        "id": "o4",
+        "text": "Hai cái hoàn toàn tách rời"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Cái chung chỉ tồn tại trong cái riêng và qua cái riêng mà biểu hiện.",
+    "difficulty": 2
+  },
+  {
+    "id": "T8",
+    "topic": "theory",
+    "stem": "Mối quan hệ đúng nhất giữa cái chung và cái riêng là gì?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Cái chung tồn tại ngoài cái riêng"
+      },
+      {
+        "id": "o2",
+        "text": "Cái chung chỉ tồn tại trong cái riêng và qua cái riêng biểu hiện"
+      },
+      {
+        "id": "o3",
+        "text": "Cái riêng bao hàm mọi cái chung"
+      },
+      {
+        "id": "o4",
+        "text": "Hai cái hoàn toàn tách rời"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Cái chung chỉ tồn tại trong cái riêng và qua cái riêng mà biểu hiện.",
+    "difficulty": 1
+  },
+  {
+    "id": "T9",
+    "topic": "theory",
+    "stem": "Bước nhảy trong quy luật lượng - chất là gì?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Sự tích luỹ dần dần về lượng"
+      },
+      {
+        "id": "o2",
+        "text": "Sự chuyển hoá về chất"
+      },
+      {
+        "id": "o3",
+        "text": "Sự thay đổi hình thức"
+      },
+      {
+        "id": "o4",
+        "text": "Sự phản ánh hiện tượng"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Bước nhảy là sự chuyển hoá về chất khi lượng đạt tới điểm nút.",
+    "difficulty": 1
+  },
+  {
+    "id": "T10",
+    "topic": "theory",
+    "stem": "Phát biểu đúng về hình thức của bước nhảy:",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Chỉ có bước nhảy đột biến lớn"
+      },
+      {
+        "id": "o2",
+        "text": "Bước nhảy có thể tiệm tiến hoặc đột biến tuỳ điều kiện"
+      },
+      {
+        "id": "o3",
+        "text": "Bước nhảy luôn tuyến tính"
+      },
+      {
+        "id": "o4",
+        "text": "Không có bước nhảy"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Bước nhảy có thể diễn ra tiệm tiến hoặc đột biến tuỳ thuộc điều kiện và cấu trúc sự vật.",
+    "difficulty": 3
+  },
+  {
+    "id": "T11",
+    "topic": "theory",
+    "stem": "Bước nhảy trong quy luật lượng - chất là gì?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Sự tích luỹ dần dần về lượng"
+      },
+      {
+        "id": "o2",
+        "text": "Sự chuyển hoá về chất"
+      },
+      {
+        "id": "o3",
+        "text": "Sự thay đổi hình thức"
+      },
+      {
+        "id": "o4",
+        "text": "Sự phản ánh hiện tượng"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Bước nhảy là sự chuyển hoá về chất khi lượng đạt tới điểm nút.",
+    "difficulty": 2
+  },
+  {
+    "id": "T12",
+    "topic": "theory",
+    "stem": "Tính lịch sử - cụ thể của chân lý có nghĩa là:",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Chân lý bất biến trong mọi hoàn cảnh"
+      },
+      {
+        "id": "o2",
+        "text": "Chân lý đúng trong những điều kiện lịch sử - xã hội - bối cảnh xác định"
+      },
+      {
+        "id": "o3",
+        "text": "Chân lý chỉ đúng với cá nhân"
+      },
+      {
+        "id": "o4",
+        "text": "Không có chân lý khách quan"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Chân lý mang tính khách quan nhưng luôn gắn với điều kiện lịch sử - cụ thể nhất định.",
+    "difficulty": 3
+  },
+  {
+    "id": "T13",
+    "topic": "theory",
+    "stem": "Tiêu chí phân biệt nguyên nhân với điều kiện là gì?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Nguyên nhân sinh ra sự biến đổi; điều kiện tạo môi trường để nguyên nhân phát huy"
+      },
+      {
+        "id": "o2",
+        "text": "Điều kiện sinh ra sự biến đổi; nguyên nhân chỉ hỗ trợ"
+      },
+      {
+        "id": "o3",
+        "text": "Không có khác biệt"
+      },
+      {
+        "id": "o4",
+        "text": "Tuỳ ý quy ước"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Nguyên nhân trực tiếp sinh ra kết quả; điều kiện là môi trường giúp nguyên nhân tác động.",
+    "difficulty": 2
+  },
+  {
+    "id": "T14",
+    "topic": "theory",
+    "stem": "Nhận định đúng về quan hệ tất nhiên và ngẫu nhiên:",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Tất nhiên và ngẫu nhiên không liên quan"
+      },
+      {
+        "id": "o2",
+        "text": "Mọi cái tất nhiên đều biểu hiện qua cái ngẫu nhiên"
+      },
+      {
+        "id": "o3",
+        "text": "Ngẫu nhiên quyết định tất nhiên"
+      },
+      {
+        "id": "o4",
+        "text": "Chỉ có ngẫu nhiên tồn tại"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Tất nhiên vạch ra xu hướng; nó biểu hiện thông qua vô vàn cái ngẫu nhiên.",
+    "difficulty": 3
+  },
+  {
+    "id": "T15",
+    "topic": "theory",
+    "stem": "Khái niệm nào chỉ ngưỡng tại đó sự thay đổi về lượng dẫn tới thay đổi về chất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Bản chất"
+      },
+      {
+        "id": "o2",
+        "text": "Điểm nút"
+      },
+      {
+        "id": "o3",
+        "text": "Hiện tượng"
+      },
+      {
+        "id": "o4",
+        "text": "Khả năng"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Điểm nút là ngưỡng biến đổi lượng đủ để tạo bước nhảy về chất.",
+    "difficulty": 3
+  },
+  {
+    "id": "T16",
+    "topic": "theory",
+    "stem": "Khi nào khả năng biến thành hiện thực?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Khi có đủ điều kiện tương ứng"
+      },
+      {
+        "id": "o2",
+        "text": "Khi ý muốn chủ quan đủ mạnh"
+      },
+      {
+        "id": "o3",
+        "text": "Khi xoá hết ngẫu nhiên"
+      },
+      {
+        "id": "o4",
+        "text": "Khi bản chất biến mất"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Khả năng chỉ chuyển hoá thành hiện thực khi các điều kiện cần và đủ được thoả mãn.",
+    "difficulty": 2
+  },
+  {
+    "id": "T17",
+    "topic": "theory",
+    "stem": "Tính lịch sử - cụ thể của chân lý có nghĩa là:",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Chân lý bất biến trong mọi hoàn cảnh"
+      },
+      {
+        "id": "o2",
+        "text": "Chân lý đúng trong những điều kiện lịch sử - xã hội - bối cảnh xác định"
+      },
+      {
+        "id": "o3",
+        "text": "Chân lý chỉ đúng với cá nhân"
+      },
+      {
+        "id": "o4",
+        "text": "Không có chân lý khách quan"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Chân lý mang tính khách quan nhưng luôn gắn với điều kiện lịch sử - cụ thể nhất định.",
+    "difficulty": 3
+  },
+  {
+    "id": "T18",
+    "topic": "theory",
+    "stem": "Tính lịch sử - cụ thể của chân lý có nghĩa là:",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Chân lý bất biến trong mọi hoàn cảnh"
+      },
+      {
+        "id": "o2",
+        "text": "Chân lý đúng trong những điều kiện lịch sử - xã hội - bối cảnh xác định"
+      },
+      {
+        "id": "o3",
+        "text": "Chân lý chỉ đúng với cá nhân"
+      },
+      {
+        "id": "o4",
+        "text": "Không có chân lý khách quan"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Chân lý mang tính khách quan nhưng luôn gắn với điều kiện lịch sử - cụ thể nhất định.",
+    "difficulty": 3
+  },
+  {
+    "id": "T19",
+    "topic": "theory",
+    "stem": "Bước nhảy trong quy luật lượng - chất là gì?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Sự tích luỹ dần dần về lượng"
+      },
+      {
+        "id": "o2",
+        "text": "Sự chuyển hoá về chất"
+      },
+      {
+        "id": "o3",
+        "text": "Sự thay đổi hình thức"
+      },
+      {
+        "id": "o4",
+        "text": "Sự phản ánh hiện tượng"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Bước nhảy là sự chuyển hoá về chất khi lượng đạt tới điểm nút.",
+    "difficulty": 2
+  },
+  {
+    "id": "T20",
+    "topic": "theory",
+    "stem": "Khái niệm nào chỉ ngưỡng tại đó sự thay đổi về lượng dẫn tới thay đổi về chất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Bản chất"
+      },
+      {
+        "id": "o2",
+        "text": "Điểm nút"
+      },
+      {
+        "id": "o3",
+        "text": "Hiện tượng"
+      },
+      {
+        "id": "o4",
+        "text": "Khả năng"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Điểm nút là ngưỡng biến đổi lượng đủ để tạo bước nhảy về chất.",
+    "difficulty": 2
+  },
+  {
+    "id": "T21",
+    "topic": "theory",
+    "stem": "Bước nhảy trong quy luật lượng - chất là gì?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Sự tích luỹ dần dần về lượng"
+      },
+      {
+        "id": "o2",
+        "text": "Sự chuyển hoá về chất"
+      },
+      {
+        "id": "o3",
+        "text": "Sự thay đổi hình thức"
+      },
+      {
+        "id": "o4",
+        "text": "Sự phản ánh hiện tượng"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Bước nhảy là sự chuyển hoá về chất khi lượng đạt tới điểm nút.",
+    "difficulty": 3
+  },
+  {
+    "id": "T22",
+    "topic": "theory",
+    "stem": "Khi nào khả năng biến thành hiện thực?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Khi có đủ điều kiện tương ứng"
+      },
+      {
+        "id": "o2",
+        "text": "Khi ý muốn chủ quan đủ mạnh"
+      },
+      {
+        "id": "o3",
+        "text": "Khi xoá hết ngẫu nhiên"
+      },
+      {
+        "id": "o4",
+        "text": "Khi bản chất biến mất"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Khả năng chỉ chuyển hoá thành hiện thực khi các điều kiện cần và đủ được thoả mãn.",
+    "difficulty": 1
+  },
+  {
+    "id": "T23",
+    "topic": "theory",
+    "stem": "Khái niệm nào chỉ ngưỡng tại đó sự thay đổi về lượng dẫn tới thay đổi về chất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Bản chất"
+      },
+      {
+        "id": "o2",
+        "text": "Điểm nút"
+      },
+      {
+        "id": "o3",
+        "text": "Hiện tượng"
+      },
+      {
+        "id": "o4",
+        "text": "Khả năng"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Điểm nút là ngưỡng biến đổi lượng đủ để tạo bước nhảy về chất.",
+    "difficulty": 1
+  },
+  {
+    "id": "T24",
+    "topic": "theory",
+    "stem": "Kết quả điển hình của quy luật phủ định của phủ định là khuynh hướng phát triển theo hình gì?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Đường thẳng"
+      },
+      {
+        "id": "o2",
+        "text": "Vòng tròn khép kín"
+      },
+      {
+        "id": "o3",
+        "text": "Xoáy ốc"
+      },
+      {
+        "id": "o4",
+        "text": "Hình sin"
+      }
+    ],
+    "answer": "o3",
+    "explanation": "Phủ định của phủ định tạo khuynh hướng phát triển theo hình xoáy ốc, kế thừa và vượt qua.",
+    "difficulty": 1
+  },
+  {
+    "id": "T25",
+    "topic": "theory",
+    "stem": "Khái niệm nào chỉ ngưỡng tại đó sự thay đổi về lượng dẫn tới thay đổi về chất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Bản chất"
+      },
+      {
+        "id": "o2",
+        "text": "Điểm nút"
+      },
+      {
+        "id": "o3",
+        "text": "Hiện tượng"
+      },
+      {
+        "id": "o4",
+        "text": "Khả năng"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Điểm nút là ngưỡng biến đổi lượng đủ để tạo bước nhảy về chất.",
+    "difficulty": 1
+  },
+  {
+    "id": "T26",
+    "topic": "theory",
+    "stem": "Nhận định đúng về quan hệ tất nhiên và ngẫu nhiên:",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Tất nhiên và ngẫu nhiên không liên quan"
+      },
+      {
+        "id": "o2",
+        "text": "Mọi cái tất nhiên đều biểu hiện qua cái ngẫu nhiên"
+      },
+      {
+        "id": "o3",
+        "text": "Ngẫu nhiên quyết định tất nhiên"
+      },
+      {
+        "id": "o4",
+        "text": "Chỉ có ngẫu nhiên tồn tại"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Tất nhiên vạch ra xu hướng; nó biểu hiện thông qua vô vàn cái ngẫu nhiên.",
+    "difficulty": 1
+  },
+  {
+    "id": "T27",
+    "topic": "theory",
+    "stem": "Tính lịch sử - cụ thể của chân lý có nghĩa là:",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Chân lý bất biến trong mọi hoàn cảnh"
+      },
+      {
+        "id": "o2",
+        "text": "Chân lý đúng trong những điều kiện lịch sử - xã hội - bối cảnh xác định"
+      },
+      {
+        "id": "o3",
+        "text": "Chân lý chỉ đúng với cá nhân"
+      },
+      {
+        "id": "o4",
+        "text": "Không có chân lý khách quan"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Chân lý mang tính khách quan nhưng luôn gắn với điều kiện lịch sử - cụ thể nhất định.",
+    "difficulty": 1
+  },
+  {
+    "id": "T28",
+    "topic": "theory",
+    "stem": "Phủ định biện chứng được hiểu là:",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Phủ định sạch trơn cái cũ"
+      },
+      {
+        "id": "o2",
+        "text": "Kế thừa và vượt qua cái cũ trên cơ sở mới"
+      },
+      {
+        "id": "o3",
+        "text": "Bảo tồn nguyên vẹn cái cũ"
+      },
+      {
+        "id": "o4",
+        "text": "Bỏ qua lịch sử"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Phủ định biện chứng là kế thừa hạt nhân hợp lý và vượt qua hạn chế của cái cũ.",
+    "difficulty": 2
+  },
+  {
+    "id": "T29",
+    "topic": "theory",
+    "stem": "Nguồn gốc bên trong của sự vận động và phát triển theo phép biện chứng duy vật là gì?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Tác động ngẫu nhiên từ bên ngoài"
+      },
+      {
+        "id": "o2",
+        "text": "Mâu thuẫn nội tại của sự vật"
+      },
+      {
+        "id": "o3",
+        "text": "Ý thức chủ quan của con người"
+      },
+      {
+        "id": "o4",
+        "text": "Điều kiện xã hội"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Mâu thuẫn nội tại là nguồn gốc bên trong của vận động và phát triển.",
+    "difficulty": 1
+  },
+  {
+    "id": "T30",
+    "topic": "theory",
+    "stem": "Nguồn gốc bên trong của sự vận động và phát triển theo phép biện chứng duy vật là gì?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Tác động ngẫu nhiên từ bên ngoài"
+      },
+      {
+        "id": "o2",
+        "text": "Mâu thuẫn nội tại của sự vật"
+      },
+      {
+        "id": "o3",
+        "text": "Ý thức chủ quan của con người"
+      },
+      {
+        "id": "o4",
+        "text": "Điều kiện xã hội"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Mâu thuẫn nội tại là nguồn gốc bên trong của vận động và phát triển.",
+    "difficulty": 2
+  },
+  {
+    "id": "T31",
+    "topic": "theory",
+    "stem": "Phát biểu nào đúng về quan hệ bản chất và hiện tượng?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Bản chất tách rời hiện tượng"
+      },
+      {
+        "id": "o2",
+        "text": "Bản chất bộc lộ qua hiện tượng, hiện tượng là hình thức biểu hiện của bản chất"
+      },
+      {
+        "id": "o3",
+        "text": "Hiện tượng quyết định bản chất"
+      },
+      {
+        "id": "o4",
+        "text": "Hai khái niệm đồng nhất"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Bản chất bộc lộ qua hiện tượng; không thể nghiên cứu bản chất ngoài hiện tượng.",
+    "difficulty": 2
+  },
+  {
+    "id": "T32",
+    "topic": "theory",
+    "stem": "Phủ định biện chứng được hiểu là:",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Phủ định sạch trơn cái cũ"
+      },
+      {
+        "id": "o2",
+        "text": "Kế thừa và vượt qua cái cũ trên cơ sở mới"
+      },
+      {
+        "id": "o3",
+        "text": "Bảo tồn nguyên vẹn cái cũ"
+      },
+      {
+        "id": "o4",
+        "text": "Bỏ qua lịch sử"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Phủ định biện chứng là kế thừa hạt nhân hợp lý và vượt qua hạn chế của cái cũ.",
+    "difficulty": 1
+  },
+  {
+    "id": "T33",
+    "topic": "theory",
+    "stem": "Khái niệm nào chỉ ngưỡng tại đó sự thay đổi về lượng dẫn tới thay đổi về chất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Bản chất"
+      },
+      {
+        "id": "o2",
+        "text": "Điểm nút"
+      },
+      {
+        "id": "o3",
+        "text": "Hiện tượng"
+      },
+      {
+        "id": "o4",
+        "text": "Khả năng"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Điểm nút là ngưỡng biến đổi lượng đủ để tạo bước nhảy về chất.",
+    "difficulty": 1
+  },
+  {
+    "id": "T34",
+    "topic": "theory",
+    "stem": "Phát biểu đúng về hình thức của bước nhảy:",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Chỉ có bước nhảy đột biến lớn"
+      },
+      {
+        "id": "o2",
+        "text": "Bước nhảy có thể tiệm tiến hoặc đột biến tuỳ điều kiện"
+      },
+      {
+        "id": "o3",
+        "text": "Bước nhảy luôn tuyến tính"
+      },
+      {
+        "id": "o4",
+        "text": "Không có bước nhảy"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Bước nhảy có thể diễn ra tiệm tiến hoặc đột biến tuỳ thuộc điều kiện và cấu trúc sự vật.",
+    "difficulty": 2
+  },
+  {
+    "id": "T35",
+    "topic": "theory",
+    "stem": "Phủ định biện chứng được hiểu là:",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Phủ định sạch trơn cái cũ"
+      },
+      {
+        "id": "o2",
+        "text": "Kế thừa và vượt qua cái cũ trên cơ sở mới"
+      },
+      {
+        "id": "o3",
+        "text": "Bảo tồn nguyên vẹn cái cũ"
+      },
+      {
+        "id": "o4",
+        "text": "Bỏ qua lịch sử"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Phủ định biện chứng là kế thừa hạt nhân hợp lý và vượt qua hạn chế của cái cũ.",
+    "difficulty": 2
+  },
+  {
+    "id": "T36",
+    "topic": "theory",
+    "stem": "Tiêu chí phân biệt nguyên nhân với điều kiện là gì?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Nguyên nhân sinh ra sự biến đổi; điều kiện tạo môi trường để nguyên nhân phát huy"
+      },
+      {
+        "id": "o2",
+        "text": "Điều kiện sinh ra sự biến đổi; nguyên nhân chỉ hỗ trợ"
+      },
+      {
+        "id": "o3",
+        "text": "Không có khác biệt"
+      },
+      {
+        "id": "o4",
+        "text": "Tuỳ ý quy ước"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Nguyên nhân trực tiếp sinh ra kết quả; điều kiện là môi trường giúp nguyên nhân tác động.",
+    "difficulty": 1
+  },
+  {
+    "id": "T37",
+    "topic": "theory",
+    "stem": "Khái niệm nào chỉ cái riêng biệt, không lặp lại hoàn toàn ở cá thể?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Cái chung"
+      },
+      {
+        "id": "o2",
+        "text": "Cái riêng"
+      },
+      {
+        "id": "o3",
+        "text": "Cái đơn nhất"
+      },
+      {
+        "id": "o4",
+        "text": "Bản chất"
+      }
+    ],
+    "answer": "o3",
+    "explanation": "Cái đơn nhất gắn với sự vật cá thể ở tính không lặp lại hoàn toàn.",
+    "difficulty": 2
+  },
+  {
+    "id": "T38",
+    "topic": "theory",
+    "stem": "Mối quan hệ đúng nhất giữa cái chung và cái riêng là gì?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Cái chung tồn tại ngoài cái riêng"
+      },
+      {
+        "id": "o2",
+        "text": "Cái chung chỉ tồn tại trong cái riêng và qua cái riêng biểu hiện"
+      },
+      {
+        "id": "o3",
+        "text": "Cái riêng bao hàm mọi cái chung"
+      },
+      {
+        "id": "o4",
+        "text": "Hai cái hoàn toàn tách rời"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Cái chung chỉ tồn tại trong cái riêng và qua cái riêng mà biểu hiện.",
+    "difficulty": 1
+  },
+  {
+    "id": "T39",
+    "topic": "theory",
+    "stem": "Phát biểu đúng về hình thức của bước nhảy:",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Chỉ có bước nhảy đột biến lớn"
+      },
+      {
+        "id": "o2",
+        "text": "Bước nhảy có thể tiệm tiến hoặc đột biến tuỳ điều kiện"
+      },
+      {
+        "id": "o3",
+        "text": "Bước nhảy luôn tuyến tính"
+      },
+      {
+        "id": "o4",
+        "text": "Không có bước nhảy"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Bước nhảy có thể diễn ra tiệm tiến hoặc đột biến tuỳ thuộc điều kiện và cấu trúc sự vật.",
+    "difficulty": 1
+  },
+  {
+    "id": "T40",
+    "topic": "theory",
+    "stem": "Khi nào khả năng biến thành hiện thực?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Khi có đủ điều kiện tương ứng"
+      },
+      {
+        "id": "o2",
+        "text": "Khi ý muốn chủ quan đủ mạnh"
+      },
+      {
+        "id": "o3",
+        "text": "Khi xoá hết ngẫu nhiên"
+      },
+      {
+        "id": "o4",
+        "text": "Khi bản chất biến mất"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Khả năng chỉ chuyển hoá thành hiện thực khi các điều kiện cần và đủ được thoả mãn.",
+    "difficulty": 2
+  },
+  {
+    "id": "T41",
+    "topic": "theory",
+    "stem": "Phát biểu nào đúng về quan hệ bản chất và hiện tượng?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Bản chất tách rời hiện tượng"
+      },
+      {
+        "id": "o2",
+        "text": "Bản chất bộc lộ qua hiện tượng, hiện tượng là hình thức biểu hiện của bản chất"
+      },
+      {
+        "id": "o3",
+        "text": "Hiện tượng quyết định bản chất"
+      },
+      {
+        "id": "o4",
+        "text": "Hai khái niệm đồng nhất"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Bản chất bộc lộ qua hiện tượng; không thể nghiên cứu bản chất ngoài hiện tượng.",
+    "difficulty": 3
+  },
+  {
+    "id": "T42",
+    "topic": "theory",
+    "stem": "Kết quả điển hình của quy luật phủ định của phủ định là khuynh hướng phát triển theo hình gì?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Đường thẳng"
+      },
+      {
+        "id": "o2",
+        "text": "Vòng tròn khép kín"
+      },
+      {
+        "id": "o3",
+        "text": "Xoáy ốc"
+      },
+      {
+        "id": "o4",
+        "text": "Hình sin"
+      }
+    ],
+    "answer": "o3",
+    "explanation": "Phủ định của phủ định tạo khuynh hướng phát triển theo hình xoáy ốc, kế thừa và vượt qua.",
+    "difficulty": 3
+  },
+  {
+    "id": "T43",
+    "topic": "theory",
+    "stem": "Nhận định đúng về quan hệ tất nhiên và ngẫu nhiên:",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Tất nhiên và ngẫu nhiên không liên quan"
+      },
+      {
+        "id": "o2",
+        "text": "Mọi cái tất nhiên đều biểu hiện qua cái ngẫu nhiên"
+      },
+      {
+        "id": "o3",
+        "text": "Ngẫu nhiên quyết định tất nhiên"
+      },
+      {
+        "id": "o4",
+        "text": "Chỉ có ngẫu nhiên tồn tại"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Tất nhiên vạch ra xu hướng; nó biểu hiện thông qua vô vàn cái ngẫu nhiên.",
+    "difficulty": 1
+  },
+  {
+    "id": "T44",
+    "topic": "theory",
+    "stem": "Bước nhảy trong quy luật lượng - chất là gì?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Sự tích luỹ dần dần về lượng"
+      },
+      {
+        "id": "o2",
+        "text": "Sự chuyển hoá về chất"
+      },
+      {
+        "id": "o3",
+        "text": "Sự thay đổi hình thức"
+      },
+      {
+        "id": "o4",
+        "text": "Sự phản ánh hiện tượng"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Bước nhảy là sự chuyển hoá về chất khi lượng đạt tới điểm nút.",
+    "difficulty": 1
+  },
+  {
+    "id": "T45",
+    "topic": "theory",
+    "stem": "Khái niệm nào chỉ cái riêng biệt, không lặp lại hoàn toàn ở cá thể?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Cái chung"
+      },
+      {
+        "id": "o2",
+        "text": "Cái riêng"
+      },
+      {
+        "id": "o3",
+        "text": "Cái đơn nhất"
+      },
+      {
+        "id": "o4",
+        "text": "Bản chất"
+      }
+    ],
+    "answer": "o3",
+    "explanation": "Cái đơn nhất gắn với sự vật cá thể ở tính không lặp lại hoàn toàn.",
+    "difficulty": 1
+  },
+  {
+    "id": "T46",
+    "topic": "theory",
+    "stem": "Nhận định đúng về quan hệ tất nhiên và ngẫu nhiên:",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Tất nhiên và ngẫu nhiên không liên quan"
+      },
+      {
+        "id": "o2",
+        "text": "Mọi cái tất nhiên đều biểu hiện qua cái ngẫu nhiên"
+      },
+      {
+        "id": "o3",
+        "text": "Ngẫu nhiên quyết định tất nhiên"
+      },
+      {
+        "id": "o4",
+        "text": "Chỉ có ngẫu nhiên tồn tại"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Tất nhiên vạch ra xu hướng; nó biểu hiện thông qua vô vàn cái ngẫu nhiên.",
+    "difficulty": 1
+  },
+  {
+    "id": "T47",
+    "topic": "theory",
+    "stem": "Khái niệm nào chỉ cái riêng biệt, không lặp lại hoàn toàn ở cá thể?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Cái chung"
+      },
+      {
+        "id": "o2",
+        "text": "Cái riêng"
+      },
+      {
+        "id": "o3",
+        "text": "Cái đơn nhất"
+      },
+      {
+        "id": "o4",
+        "text": "Bản chất"
+      }
+    ],
+    "answer": "o3",
+    "explanation": "Cái đơn nhất gắn với sự vật cá thể ở tính không lặp lại hoàn toàn.",
+    "difficulty": 1
+  },
+  {
+    "id": "T48",
+    "topic": "theory",
+    "stem": "Tính lịch sử - cụ thể của chân lý có nghĩa là:",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Chân lý bất biến trong mọi hoàn cảnh"
+      },
+      {
+        "id": "o2",
+        "text": "Chân lý đúng trong những điều kiện lịch sử - xã hội - bối cảnh xác định"
+      },
+      {
+        "id": "o3",
+        "text": "Chân lý chỉ đúng với cá nhân"
+      },
+      {
+        "id": "o4",
+        "text": "Không có chân lý khách quan"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Chân lý mang tính khách quan nhưng luôn gắn với điều kiện lịch sử - cụ thể nhất định.",
+    "difficulty": 2
+  },
+  {
+    "id": "T49",
+    "topic": "theory",
+    "stem": "Khái niệm nào chỉ cái riêng biệt, không lặp lại hoàn toàn ở cá thể?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Cái chung"
+      },
+      {
+        "id": "o2",
+        "text": "Cái riêng"
+      },
+      {
+        "id": "o3",
+        "text": "Cái đơn nhất"
+      },
+      {
+        "id": "o4",
+        "text": "Bản chất"
+      }
+    ],
+    "answer": "o3",
+    "explanation": "Cái đơn nhất gắn với sự vật cá thể ở tính không lặp lại hoàn toàn.",
+    "difficulty": 1
+  },
+  {
+    "id": "T50",
+    "topic": "theory",
+    "stem": "Mối quan hệ đúng nhất giữa cái chung và cái riêng là gì?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Cái chung tồn tại ngoài cái riêng"
+      },
+      {
+        "id": "o2",
+        "text": "Cái chung chỉ tồn tại trong cái riêng và qua cái riêng biểu hiện"
+      },
+      {
+        "id": "o3",
+        "text": "Cái riêng bao hàm mọi cái chung"
+      },
+      {
+        "id": "o4",
+        "text": "Hai cái hoàn toàn tách rời"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Cái chung chỉ tồn tại trong cái riêng và qua cái riêng mà biểu hiện.",
+    "difficulty": 1
+  },
+  {
+    "id": "T51",
+    "topic": "theory",
+    "stem": "Khái niệm nào chỉ ngưỡng tại đó sự thay đổi về lượng dẫn tới thay đổi về chất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Bản chất"
+      },
+      {
+        "id": "o2",
+        "text": "Điểm nút"
+      },
+      {
+        "id": "o3",
+        "text": "Hiện tượng"
+      },
+      {
+        "id": "o4",
+        "text": "Khả năng"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Điểm nút là ngưỡng biến đổi lượng đủ để tạo bước nhảy về chất.",
+    "difficulty": 1
+  },
+  {
+    "id": "T52",
+    "topic": "theory",
+    "stem": "Phát biểu nào đúng về quan hệ bản chất và hiện tượng?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Bản chất tách rời hiện tượng"
+      },
+      {
+        "id": "o2",
+        "text": "Bản chất bộc lộ qua hiện tượng, hiện tượng là hình thức biểu hiện của bản chất"
+      },
+      {
+        "id": "o3",
+        "text": "Hiện tượng quyết định bản chất"
+      },
+      {
+        "id": "o4",
+        "text": "Hai khái niệm đồng nhất"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Bản chất bộc lộ qua hiện tượng; không thể nghiên cứu bản chất ngoài hiện tượng.",
+    "difficulty": 2
+  },
+  {
+    "id": "T53",
+    "topic": "theory",
+    "stem": "Bước nhảy trong quy luật lượng - chất là gì?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Sự tích luỹ dần dần về lượng"
+      },
+      {
+        "id": "o2",
+        "text": "Sự chuyển hoá về chất"
+      },
+      {
+        "id": "o3",
+        "text": "Sự thay đổi hình thức"
+      },
+      {
+        "id": "o4",
+        "text": "Sự phản ánh hiện tượng"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Bước nhảy là sự chuyển hoá về chất khi lượng đạt tới điểm nút.",
+    "difficulty": 1
+  },
+  {
+    "id": "T54",
+    "topic": "theory",
+    "stem": "Tính lịch sử - cụ thể của chân lý có nghĩa là:",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Chân lý bất biến trong mọi hoàn cảnh"
+      },
+      {
+        "id": "o2",
+        "text": "Chân lý đúng trong những điều kiện lịch sử - xã hội - bối cảnh xác định"
+      },
+      {
+        "id": "o3",
+        "text": "Chân lý chỉ đúng với cá nhân"
+      },
+      {
+        "id": "o4",
+        "text": "Không có chân lý khách quan"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Chân lý mang tính khách quan nhưng luôn gắn với điều kiện lịch sử - cụ thể nhất định.",
+    "difficulty": 3
+  },
+  {
+    "id": "T55",
+    "topic": "theory",
+    "stem": "Nhận định đúng về quan hệ tất nhiên và ngẫu nhiên:",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Tất nhiên và ngẫu nhiên không liên quan"
+      },
+      {
+        "id": "o2",
+        "text": "Mọi cái tất nhiên đều biểu hiện qua cái ngẫu nhiên"
+      },
+      {
+        "id": "o3",
+        "text": "Ngẫu nhiên quyết định tất nhiên"
+      },
+      {
+        "id": "o4",
+        "text": "Chỉ có ngẫu nhiên tồn tại"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Tất nhiên vạch ra xu hướng; nó biểu hiện thông qua vô vàn cái ngẫu nhiên.",
+    "difficulty": 2
+  },
+  {
+    "id": "T56",
+    "topic": "theory",
+    "stem": "Bước nhảy trong quy luật lượng - chất là gì?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Sự tích luỹ dần dần về lượng"
+      },
+      {
+        "id": "o2",
+        "text": "Sự chuyển hoá về chất"
+      },
+      {
+        "id": "o3",
+        "text": "Sự thay đổi hình thức"
+      },
+      {
+        "id": "o4",
+        "text": "Sự phản ánh hiện tượng"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Bước nhảy là sự chuyển hoá về chất khi lượng đạt tới điểm nút.",
+    "difficulty": 1
+  },
+  {
+    "id": "T57",
+    "topic": "theory",
+    "stem": "Kết quả điển hình của quy luật phủ định của phủ định là khuynh hướng phát triển theo hình gì?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Đường thẳng"
+      },
+      {
+        "id": "o2",
+        "text": "Vòng tròn khép kín"
+      },
+      {
+        "id": "o3",
+        "text": "Xoáy ốc"
+      },
+      {
+        "id": "o4",
+        "text": "Hình sin"
+      }
+    ],
+    "answer": "o3",
+    "explanation": "Phủ định của phủ định tạo khuynh hướng phát triển theo hình xoáy ốc, kế thừa và vượt qua.",
+    "difficulty": 2
+  },
+  {
+    "id": "T58",
+    "topic": "theory",
+    "stem": "Quan hệ đúng giữa nội dung và hình thức là:",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Hình thức quyết định tuyệt đối nội dung"
+      },
+      {
+        "id": "o2",
+        "text": "Nội dung quyết định hình thức nhưng hình thức có tính độc lập tương đối"
+      },
+      {
+        "id": "o3",
+        "text": "Hai mặt không liên hệ"
+      },
+      {
+        "id": "o4",
+        "text": "Chỉ có nội dung tồn tại"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Nội dung đóng vai trò quyết định; hình thức có thể tác động trở lại và cần phù hợp nội dung.",
+    "difficulty": 1
+  },
+  {
+    "id": "T59",
+    "topic": "theory",
+    "stem": "Khái niệm nào chỉ cái riêng biệt, không lặp lại hoàn toàn ở cá thể?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Cái chung"
+      },
+      {
+        "id": "o2",
+        "text": "Cái riêng"
+      },
+      {
+        "id": "o3",
+        "text": "Cái đơn nhất"
+      },
+      {
+        "id": "o4",
+        "text": "Bản chất"
+      }
+    ],
+    "answer": "o3",
+    "explanation": "Cái đơn nhất gắn với sự vật cá thể ở tính không lặp lại hoàn toàn.",
+    "difficulty": 2
+  },
+  {
+    "id": "T60",
+    "topic": "theory",
+    "stem": "Bước nhảy trong quy luật lượng - chất là gì?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Sự tích luỹ dần dần về lượng"
+      },
+      {
+        "id": "o2",
+        "text": "Sự chuyển hoá về chất"
+      },
+      {
+        "id": "o3",
+        "text": "Sự thay đổi hình thức"
+      },
+      {
+        "id": "o4",
+        "text": "Sự phản ánh hiện tượng"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Bước nhảy là sự chuyển hoá về chất khi lượng đạt tới điểm nút.",
+    "difficulty": 1
+  },
+  {
+    "id": "T61",
+    "topic": "theory",
+    "stem": "Bước nhảy trong quy luật lượng - chất là gì?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Sự tích luỹ dần dần về lượng"
+      },
+      {
+        "id": "o2",
+        "text": "Sự chuyển hoá về chất"
+      },
+      {
+        "id": "o3",
+        "text": "Sự thay đổi hình thức"
+      },
+      {
+        "id": "o4",
+        "text": "Sự phản ánh hiện tượng"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Bước nhảy là sự chuyển hoá về chất khi lượng đạt tới điểm nút.",
+    "difficulty": 2
+  },
+  {
+    "id": "T62",
+    "topic": "theory",
+    "stem": "Nhận định đúng về quan hệ tất nhiên và ngẫu nhiên:",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Tất nhiên và ngẫu nhiên không liên quan"
+      },
+      {
+        "id": "o2",
+        "text": "Mọi cái tất nhiên đều biểu hiện qua cái ngẫu nhiên"
+      },
+      {
+        "id": "o3",
+        "text": "Ngẫu nhiên quyết định tất nhiên"
+      },
+      {
+        "id": "o4",
+        "text": "Chỉ có ngẫu nhiên tồn tại"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Tất nhiên vạch ra xu hướng; nó biểu hiện thông qua vô vàn cái ngẫu nhiên.",
+    "difficulty": 2
+  },
+  {
+    "id": "T63",
+    "topic": "theory",
+    "stem": "Khái niệm nào chỉ cái riêng biệt, không lặp lại hoàn toàn ở cá thể?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Cái chung"
+      },
+      {
+        "id": "o2",
+        "text": "Cái riêng"
+      },
+      {
+        "id": "o3",
+        "text": "Cái đơn nhất"
+      },
+      {
+        "id": "o4",
+        "text": "Bản chất"
+      }
+    ],
+    "answer": "o3",
+    "explanation": "Cái đơn nhất gắn với sự vật cá thể ở tính không lặp lại hoàn toàn.",
+    "difficulty": 2
+  },
+  {
+    "id": "T64",
+    "topic": "theory",
+    "stem": "Bước nhảy trong quy luật lượng - chất là gì?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Sự tích luỹ dần dần về lượng"
+      },
+      {
+        "id": "o2",
+        "text": "Sự chuyển hoá về chất"
+      },
+      {
+        "id": "o3",
+        "text": "Sự thay đổi hình thức"
+      },
+      {
+        "id": "o4",
+        "text": "Sự phản ánh hiện tượng"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Bước nhảy là sự chuyển hoá về chất khi lượng đạt tới điểm nút.",
+    "difficulty": 2
+  },
+  {
+    "id": "T65",
+    "topic": "theory",
+    "stem": "Phủ định biện chứng được hiểu là:",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Phủ định sạch trơn cái cũ"
+      },
+      {
+        "id": "o2",
+        "text": "Kế thừa và vượt qua cái cũ trên cơ sở mới"
+      },
+      {
+        "id": "o3",
+        "text": "Bảo tồn nguyên vẹn cái cũ"
+      },
+      {
+        "id": "o4",
+        "text": "Bỏ qua lịch sử"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Phủ định biện chứng là kế thừa hạt nhân hợp lý và vượt qua hạn chế của cái cũ.",
+    "difficulty": 1
+  },
+  {
+    "id": "T66",
+    "topic": "theory",
+    "stem": "Phát biểu nào đúng về quan hệ bản chất và hiện tượng?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Bản chất tách rời hiện tượng"
+      },
+      {
+        "id": "o2",
+        "text": "Bản chất bộc lộ qua hiện tượng, hiện tượng là hình thức biểu hiện của bản chất"
+      },
+      {
+        "id": "o3",
+        "text": "Hiện tượng quyết định bản chất"
+      },
+      {
+        "id": "o4",
+        "text": "Hai khái niệm đồng nhất"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Bản chất bộc lộ qua hiện tượng; không thể nghiên cứu bản chất ngoài hiện tượng.",
+    "difficulty": 1
+  },
+  {
+    "id": "T67",
+    "topic": "theory",
+    "stem": "Nguồn gốc bên trong của sự vận động và phát triển theo phép biện chứng duy vật là gì?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Tác động ngẫu nhiên từ bên ngoài"
+      },
+      {
+        "id": "o2",
+        "text": "Mâu thuẫn nội tại của sự vật"
+      },
+      {
+        "id": "o3",
+        "text": "Ý thức chủ quan của con người"
+      },
+      {
+        "id": "o4",
+        "text": "Điều kiện xã hội"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Mâu thuẫn nội tại là nguồn gốc bên trong của vận động và phát triển.",
+    "difficulty": 2
+  },
+  {
+    "id": "T68",
+    "topic": "theory",
+    "stem": "Phủ định biện chứng được hiểu là:",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Phủ định sạch trơn cái cũ"
+      },
+      {
+        "id": "o2",
+        "text": "Kế thừa và vượt qua cái cũ trên cơ sở mới"
+      },
+      {
+        "id": "o3",
+        "text": "Bảo tồn nguyên vẹn cái cũ"
+      },
+      {
+        "id": "o4",
+        "text": "Bỏ qua lịch sử"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Phủ định biện chứng là kế thừa hạt nhân hợp lý và vượt qua hạn chế của cái cũ.",
+    "difficulty": 3
+  },
+  {
+    "id": "T69",
+    "topic": "theory",
+    "stem": "Phát biểu nào đúng về quan hệ bản chất và hiện tượng?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Bản chất tách rời hiện tượng"
+      },
+      {
+        "id": "o2",
+        "text": "Bản chất bộc lộ qua hiện tượng, hiện tượng là hình thức biểu hiện của bản chất"
+      },
+      {
+        "id": "o3",
+        "text": "Hiện tượng quyết định bản chất"
+      },
+      {
+        "id": "o4",
+        "text": "Hai khái niệm đồng nhất"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Bản chất bộc lộ qua hiện tượng; không thể nghiên cứu bản chất ngoài hiện tượng.",
+    "difficulty": 2
+  },
+  {
+    "id": "T70",
+    "topic": "theory",
+    "stem": "Khi nào khả năng biến thành hiện thực?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Khi có đủ điều kiện tương ứng"
+      },
+      {
+        "id": "o2",
+        "text": "Khi ý muốn chủ quan đủ mạnh"
+      },
+      {
+        "id": "o3",
+        "text": "Khi xoá hết ngẫu nhiên"
+      },
+      {
+        "id": "o4",
+        "text": "Khi bản chất biến mất"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Khả năng chỉ chuyển hoá thành hiện thực khi các điều kiện cần và đủ được thoả mãn.",
+    "difficulty": 1
+  },
+  {
+    "id": "T71",
+    "topic": "theory",
+    "stem": "Phát biểu đúng về hình thức của bước nhảy:",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Chỉ có bước nhảy đột biến lớn"
+      },
+      {
+        "id": "o2",
+        "text": "Bước nhảy có thể tiệm tiến hoặc đột biến tuỳ điều kiện"
+      },
+      {
+        "id": "o3",
+        "text": "Bước nhảy luôn tuyến tính"
+      },
+      {
+        "id": "o4",
+        "text": "Không có bước nhảy"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Bước nhảy có thể diễn ra tiệm tiến hoặc đột biến tuỳ thuộc điều kiện và cấu trúc sự vật.",
+    "difficulty": 1
+  },
+  {
+    "id": "T72",
+    "topic": "theory",
+    "stem": "Đối với một mâu thuẫn cụ thể, 'mặt đối lập chủ yếu' là mặt nào?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Mặt có số lượng nhiều hơn"
+      },
+      {
+        "id": "o2",
+        "text": "Mặt quyết định xu hướng vận động của sự vật trong giai đoạn đó"
+      },
+      {
+        "id": "o3",
+        "text": "Mặt xuất hiện trước"
+      },
+      {
+        "id": "o4",
+        "text": "Mặt mạnh hơn về hình thức"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Mặt đối lập chủ yếu là mặt đóng vai trò quyết định xu hướng vận động ở giai đoạn nhất định.",
+    "difficulty": 2
+  },
+  {
+    "id": "T73",
+    "topic": "theory",
+    "stem": "Mối quan hệ đúng nhất giữa cái chung và cái riêng là gì?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Cái chung tồn tại ngoài cái riêng"
+      },
+      {
+        "id": "o2",
+        "text": "Cái chung chỉ tồn tại trong cái riêng và qua cái riêng biểu hiện"
+      },
+      {
+        "id": "o3",
+        "text": "Cái riêng bao hàm mọi cái chung"
+      },
+      {
+        "id": "o4",
+        "text": "Hai cái hoàn toàn tách rời"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Cái chung chỉ tồn tại trong cái riêng và qua cái riêng mà biểu hiện.",
+    "difficulty": 3
+  },
+  {
+    "id": "T74",
+    "topic": "theory",
+    "stem": "Phát biểu nào đúng về quan hệ bản chất và hiện tượng?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Bản chất tách rời hiện tượng"
+      },
+      {
+        "id": "o2",
+        "text": "Bản chất bộc lộ qua hiện tượng, hiện tượng là hình thức biểu hiện của bản chất"
+      },
+      {
+        "id": "o3",
+        "text": "Hiện tượng quyết định bản chất"
+      },
+      {
+        "id": "o4",
+        "text": "Hai khái niệm đồng nhất"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Bản chất bộc lộ qua hiện tượng; không thể nghiên cứu bản chất ngoài hiện tượng.",
+    "difficulty": 2
+  },
+  {
+    "id": "T75",
+    "topic": "theory",
+    "stem": "Khái niệm nào chỉ cái riêng biệt, không lặp lại hoàn toàn ở cá thể?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Cái chung"
+      },
+      {
+        "id": "o2",
+        "text": "Cái riêng"
+      },
+      {
+        "id": "o3",
+        "text": "Cái đơn nhất"
+      },
+      {
+        "id": "o4",
+        "text": "Bản chất"
+      }
+    ],
+    "answer": "o3",
+    "explanation": "Cái đơn nhất gắn với sự vật cá thể ở tính không lặp lại hoàn toàn.",
+    "difficulty": 2
+  },
+  {
+    "id": "T76",
+    "topic": "theory",
+    "stem": "Tiêu chí phân biệt nguyên nhân với điều kiện là gì?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Nguyên nhân sinh ra sự biến đổi; điều kiện tạo môi trường để nguyên nhân phát huy"
+      },
+      {
+        "id": "o2",
+        "text": "Điều kiện sinh ra sự biến đổi; nguyên nhân chỉ hỗ trợ"
+      },
+      {
+        "id": "o3",
+        "text": "Không có khác biệt"
+      },
+      {
+        "id": "o4",
+        "text": "Tuỳ ý quy ước"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Nguyên nhân trực tiếp sinh ra kết quả; điều kiện là môi trường giúp nguyên nhân tác động.",
+    "difficulty": 1
+  },
+  {
+    "id": "T77",
+    "topic": "theory",
+    "stem": "Quan hệ đúng giữa nội dung và hình thức là:",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Hình thức quyết định tuyệt đối nội dung"
+      },
+      {
+        "id": "o2",
+        "text": "Nội dung quyết định hình thức nhưng hình thức có tính độc lập tương đối"
+      },
+      {
+        "id": "o3",
+        "text": "Hai mặt không liên hệ"
+      },
+      {
+        "id": "o4",
+        "text": "Chỉ có nội dung tồn tại"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Nội dung đóng vai trò quyết định; hình thức có thể tác động trở lại và cần phù hợp nội dung.",
+    "difficulty": 2
+  },
+  {
+    "id": "T78",
+    "topic": "theory",
+    "stem": "Nhận định đúng về quan hệ tất nhiên và ngẫu nhiên:",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Tất nhiên và ngẫu nhiên không liên quan"
+      },
+      {
+        "id": "o2",
+        "text": "Mọi cái tất nhiên đều biểu hiện qua cái ngẫu nhiên"
+      },
+      {
+        "id": "o3",
+        "text": "Ngẫu nhiên quyết định tất nhiên"
+      },
+      {
+        "id": "o4",
+        "text": "Chỉ có ngẫu nhiên tồn tại"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Tất nhiên vạch ra xu hướng; nó biểu hiện thông qua vô vàn cái ngẫu nhiên.",
+    "difficulty": 1
+  },
+  {
+    "id": "T79",
+    "topic": "theory",
+    "stem": "Nguồn gốc bên trong của sự vận động và phát triển theo phép biện chứng duy vật là gì?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Tác động ngẫu nhiên từ bên ngoài"
+      },
+      {
+        "id": "o2",
+        "text": "Mâu thuẫn nội tại của sự vật"
+      },
+      {
+        "id": "o3",
+        "text": "Ý thức chủ quan của con người"
+      },
+      {
+        "id": "o4",
+        "text": "Điều kiện xã hội"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Mâu thuẫn nội tại là nguồn gốc bên trong của vận động và phát triển.",
+    "difficulty": 3
+  },
+  {
+    "id": "T80",
+    "topic": "theory",
+    "stem": "Khái niệm nào chỉ ngưỡng tại đó sự thay đổi về lượng dẫn tới thay đổi về chất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Bản chất"
+      },
+      {
+        "id": "o2",
+        "text": "Điểm nút"
+      },
+      {
+        "id": "o3",
+        "text": "Hiện tượng"
+      },
+      {
+        "id": "o4",
+        "text": "Khả năng"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Điểm nút là ngưỡng biến đổi lượng đủ để tạo bước nhảy về chất.",
+    "difficulty": 1
+  },
+  {
+    "id": "T81",
+    "topic": "theory",
+    "stem": "Phủ định biện chứng được hiểu là:",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Phủ định sạch trơn cái cũ"
+      },
+      {
+        "id": "o2",
+        "text": "Kế thừa và vượt qua cái cũ trên cơ sở mới"
+      },
+      {
+        "id": "o3",
+        "text": "Bảo tồn nguyên vẹn cái cũ"
+      },
+      {
+        "id": "o4",
+        "text": "Bỏ qua lịch sử"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Phủ định biện chứng là kế thừa hạt nhân hợp lý và vượt qua hạn chế của cái cũ.",
+    "difficulty": 2
+  },
+  {
+    "id": "T82",
+    "topic": "theory",
+    "stem": "Kết quả điển hình của quy luật phủ định của phủ định là khuynh hướng phát triển theo hình gì?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Đường thẳng"
+      },
+      {
+        "id": "o2",
+        "text": "Vòng tròn khép kín"
+      },
+      {
+        "id": "o3",
+        "text": "Xoáy ốc"
+      },
+      {
+        "id": "o4",
+        "text": "Hình sin"
+      }
+    ],
+    "answer": "o3",
+    "explanation": "Phủ định của phủ định tạo khuynh hướng phát triển theo hình xoáy ốc, kế thừa và vượt qua.",
+    "difficulty": 3
+  },
+  {
+    "id": "T83",
+    "topic": "theory",
+    "stem": "Tiêu chí phân biệt nguyên nhân với điều kiện là gì?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Nguyên nhân sinh ra sự biến đổi; điều kiện tạo môi trường để nguyên nhân phát huy"
+      },
+      {
+        "id": "o2",
+        "text": "Điều kiện sinh ra sự biến đổi; nguyên nhân chỉ hỗ trợ"
+      },
+      {
+        "id": "o3",
+        "text": "Không có khác biệt"
+      },
+      {
+        "id": "o4",
+        "text": "Tuỳ ý quy ước"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Nguyên nhân trực tiếp sinh ra kết quả; điều kiện là môi trường giúp nguyên nhân tác động.",
+    "difficulty": 1
+  },
+  {
+    "id": "T84",
+    "topic": "theory",
+    "stem": "Nguồn gốc bên trong của sự vận động và phát triển theo phép biện chứng duy vật là gì?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Tác động ngẫu nhiên từ bên ngoài"
+      },
+      {
+        "id": "o2",
+        "text": "Mâu thuẫn nội tại của sự vật"
+      },
+      {
+        "id": "o3",
+        "text": "Ý thức chủ quan của con người"
+      },
+      {
+        "id": "o4",
+        "text": "Điều kiện xã hội"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Mâu thuẫn nội tại là nguồn gốc bên trong của vận động và phát triển.",
+    "difficulty": 1
+  },
+  {
+    "id": "T85",
+    "topic": "theory",
+    "stem": "Khi nào khả năng biến thành hiện thực?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Khi có đủ điều kiện tương ứng"
+      },
+      {
+        "id": "o2",
+        "text": "Khi ý muốn chủ quan đủ mạnh"
+      },
+      {
+        "id": "o3",
+        "text": "Khi xoá hết ngẫu nhiên"
+      },
+      {
+        "id": "o4",
+        "text": "Khi bản chất biến mất"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Khả năng chỉ chuyển hoá thành hiện thực khi các điều kiện cần và đủ được thoả mãn.",
+    "difficulty": 3
+  },
+  {
+    "id": "T86",
+    "topic": "theory",
+    "stem": "Khái niệm nào chỉ ngưỡng tại đó sự thay đổi về lượng dẫn tới thay đổi về chất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Bản chất"
+      },
+      {
+        "id": "o2",
+        "text": "Điểm nút"
+      },
+      {
+        "id": "o3",
+        "text": "Hiện tượng"
+      },
+      {
+        "id": "o4",
+        "text": "Khả năng"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Điểm nút là ngưỡng biến đổi lượng đủ để tạo bước nhảy về chất.",
+    "difficulty": 3
+  },
+  {
+    "id": "T87",
+    "topic": "theory",
+    "stem": "Khái niệm nào chỉ cái riêng biệt, không lặp lại hoàn toàn ở cá thể?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Cái chung"
+      },
+      {
+        "id": "o2",
+        "text": "Cái riêng"
+      },
+      {
+        "id": "o3",
+        "text": "Cái đơn nhất"
+      },
+      {
+        "id": "o4",
+        "text": "Bản chất"
+      }
+    ],
+    "answer": "o3",
+    "explanation": "Cái đơn nhất gắn với sự vật cá thể ở tính không lặp lại hoàn toàn.",
+    "difficulty": 3
+  },
+  {
+    "id": "T88",
+    "topic": "theory",
+    "stem": "Khi nào khả năng biến thành hiện thực?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Khi có đủ điều kiện tương ứng"
+      },
+      {
+        "id": "o2",
+        "text": "Khi ý muốn chủ quan đủ mạnh"
+      },
+      {
+        "id": "o3",
+        "text": "Khi xoá hết ngẫu nhiên"
+      },
+      {
+        "id": "o4",
+        "text": "Khi bản chất biến mất"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Khả năng chỉ chuyển hoá thành hiện thực khi các điều kiện cần và đủ được thoả mãn.",
+    "difficulty": 2
+  },
+  {
+    "id": "T89",
+    "topic": "theory",
+    "stem": "Nhận định đúng về quan hệ tất nhiên và ngẫu nhiên:",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Tất nhiên và ngẫu nhiên không liên quan"
+      },
+      {
+        "id": "o2",
+        "text": "Mọi cái tất nhiên đều biểu hiện qua cái ngẫu nhiên"
+      },
+      {
+        "id": "o3",
+        "text": "Ngẫu nhiên quyết định tất nhiên"
+      },
+      {
+        "id": "o4",
+        "text": "Chỉ có ngẫu nhiên tồn tại"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Tất nhiên vạch ra xu hướng; nó biểu hiện thông qua vô vàn cái ngẫu nhiên.",
+    "difficulty": 2
+  },
+  {
+    "id": "T90",
+    "topic": "theory",
+    "stem": "Khi nào khả năng biến thành hiện thực?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Khi có đủ điều kiện tương ứng"
+      },
+      {
+        "id": "o2",
+        "text": "Khi ý muốn chủ quan đủ mạnh"
+      },
+      {
+        "id": "o3",
+        "text": "Khi xoá hết ngẫu nhiên"
+      },
+      {
+        "id": "o4",
+        "text": "Khi bản chất biến mất"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Khả năng chỉ chuyển hoá thành hiện thực khi các điều kiện cần và đủ được thoả mãn.",
+    "difficulty": 2
+  },
+  {
+    "id": "T91",
+    "topic": "theory",
+    "stem": "Khi nào khả năng biến thành hiện thực?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Khi có đủ điều kiện tương ứng"
+      },
+      {
+        "id": "o2",
+        "text": "Khi ý muốn chủ quan đủ mạnh"
+      },
+      {
+        "id": "o3",
+        "text": "Khi xoá hết ngẫu nhiên"
+      },
+      {
+        "id": "o4",
+        "text": "Khi bản chất biến mất"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Khả năng chỉ chuyển hoá thành hiện thực khi các điều kiện cần và đủ được thoả mãn.",
+    "difficulty": 3
+  },
+  {
+    "id": "T92",
+    "topic": "theory",
+    "stem": "Phủ định biện chứng được hiểu là:",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Phủ định sạch trơn cái cũ"
+      },
+      {
+        "id": "o2",
+        "text": "Kế thừa và vượt qua cái cũ trên cơ sở mới"
+      },
+      {
+        "id": "o3",
+        "text": "Bảo tồn nguyên vẹn cái cũ"
+      },
+      {
+        "id": "o4",
+        "text": "Bỏ qua lịch sử"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Phủ định biện chứng là kế thừa hạt nhân hợp lý và vượt qua hạn chế của cái cũ.",
+    "difficulty": 2
+  },
+  {
+    "id": "T93",
+    "topic": "theory",
+    "stem": "Khi nào khả năng biến thành hiện thực?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Khi có đủ điều kiện tương ứng"
+      },
+      {
+        "id": "o2",
+        "text": "Khi ý muốn chủ quan đủ mạnh"
+      },
+      {
+        "id": "o3",
+        "text": "Khi xoá hết ngẫu nhiên"
+      },
+      {
+        "id": "o4",
+        "text": "Khi bản chất biến mất"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Khả năng chỉ chuyển hoá thành hiện thực khi các điều kiện cần và đủ được thoả mãn.",
+    "difficulty": 3
+  },
+  {
+    "id": "T94",
+    "topic": "theory",
+    "stem": "Kết quả điển hình của quy luật phủ định của phủ định là khuynh hướng phát triển theo hình gì?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Đường thẳng"
+      },
+      {
+        "id": "o2",
+        "text": "Vòng tròn khép kín"
+      },
+      {
+        "id": "o3",
+        "text": "Xoáy ốc"
+      },
+      {
+        "id": "o4",
+        "text": "Hình sin"
+      }
+    ],
+    "answer": "o3",
+    "explanation": "Phủ định của phủ định tạo khuynh hướng phát triển theo hình xoáy ốc, kế thừa và vượt qua.",
+    "difficulty": 1
+  },
+  {
+    "id": "T95",
+    "topic": "theory",
+    "stem": "Đối với một mâu thuẫn cụ thể, 'mặt đối lập chủ yếu' là mặt nào?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Mặt có số lượng nhiều hơn"
+      },
+      {
+        "id": "o2",
+        "text": "Mặt quyết định xu hướng vận động của sự vật trong giai đoạn đó"
+      },
+      {
+        "id": "o3",
+        "text": "Mặt xuất hiện trước"
+      },
+      {
+        "id": "o4",
+        "text": "Mặt mạnh hơn về hình thức"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Mặt đối lập chủ yếu là mặt đóng vai trò quyết định xu hướng vận động ở giai đoạn nhất định.",
+    "difficulty": 1
+  },
+  {
+    "id": "T96",
+    "topic": "theory",
+    "stem": "Khái niệm nào chỉ ngưỡng tại đó sự thay đổi về lượng dẫn tới thay đổi về chất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Bản chất"
+      },
+      {
+        "id": "o2",
+        "text": "Điểm nút"
+      },
+      {
+        "id": "o3",
+        "text": "Hiện tượng"
+      },
+      {
+        "id": "o4",
+        "text": "Khả năng"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Điểm nút là ngưỡng biến đổi lượng đủ để tạo bước nhảy về chất.",
+    "difficulty": 1
+  },
+  {
+    "id": "T97",
+    "topic": "theory",
+    "stem": "Đối với một mâu thuẫn cụ thể, 'mặt đối lập chủ yếu' là mặt nào?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Mặt có số lượng nhiều hơn"
+      },
+      {
+        "id": "o2",
+        "text": "Mặt quyết định xu hướng vận động của sự vật trong giai đoạn đó"
+      },
+      {
+        "id": "o3",
+        "text": "Mặt xuất hiện trước"
+      },
+      {
+        "id": "o4",
+        "text": "Mặt mạnh hơn về hình thức"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Mặt đối lập chủ yếu là mặt đóng vai trò quyết định xu hướng vận động ở giai đoạn nhất định.",
+    "difficulty": 1
+  },
+  {
+    "id": "T98",
+    "topic": "theory",
+    "stem": "Phát biểu nào đúng về quan hệ bản chất và hiện tượng?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Bản chất tách rời hiện tượng"
+      },
+      {
+        "id": "o2",
+        "text": "Bản chất bộc lộ qua hiện tượng, hiện tượng là hình thức biểu hiện của bản chất"
+      },
+      {
+        "id": "o3",
+        "text": "Hiện tượng quyết định bản chất"
+      },
+      {
+        "id": "o4",
+        "text": "Hai khái niệm đồng nhất"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Bản chất bộc lộ qua hiện tượng; không thể nghiên cứu bản chất ngoài hiện tượng.",
+    "difficulty": 2
+  },
+  {
+    "id": "T99",
+    "topic": "theory",
+    "stem": "Quan hệ đúng giữa nội dung và hình thức là:",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Hình thức quyết định tuyệt đối nội dung"
+      },
+      {
+        "id": "o2",
+        "text": "Nội dung quyết định hình thức nhưng hình thức có tính độc lập tương đối"
+      },
+      {
+        "id": "o3",
+        "text": "Hai mặt không liên hệ"
+      },
+      {
+        "id": "o4",
+        "text": "Chỉ có nội dung tồn tại"
+      }
+    ],
+    "answer": "o2",
+    "explanation": "Nội dung đóng vai trò quyết định; hình thức có thể tác động trở lại và cần phù hợp nội dung.",
+    "difficulty": 1
+  },
+  {
+    "id": "T100",
+    "topic": "theory",
+    "stem": "Khi nào khả năng biến thành hiện thực?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Khi có đủ điều kiện tương ứng"
+      },
+      {
+        "id": "o2",
+        "text": "Khi ý muốn chủ quan đủ mạnh"
+      },
+      {
+        "id": "o3",
+        "text": "Khi xoá hết ngẫu nhiên"
+      },
+      {
+        "id": "o4",
+        "text": "Khi bản chất biến mất"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Khả năng chỉ chuyển hoá thành hiện thực khi các điều kiện cần và đủ được thoả mãn.",
+    "difficulty": 2
+  }
+]

@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "C1",
+    "topic": "cases",
+    "stem": "Tình huống 1: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C2",
+    "topic": "cases",
+    "stem": "Tình huống 2: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C3",
+    "topic": "cases",
+    "stem": "Tình huống 3: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C4",
+    "topic": "cases",
+    "stem": "Tình huống 4: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C5",
+    "topic": "cases",
+    "stem": "Tình huống 5: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C6",
+    "topic": "cases",
+    "stem": "Tình huống 6: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C7",
+    "topic": "cases",
+    "stem": "Tình huống 7: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C8",
+    "topic": "cases",
+    "stem": "Tình huống 8: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C9",
+    "topic": "cases",
+    "stem": "Tình huống 9: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C10",
+    "topic": "cases",
+    "stem": "Tình huống 10: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C11",
+    "topic": "cases",
+    "stem": "Tình huống 11: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C12",
+    "topic": "cases",
+    "stem": "Tình huống 12: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C13",
+    "topic": "cases",
+    "stem": "Tình huống 13: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C14",
+    "topic": "cases",
+    "stem": "Tình huống 14: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C15",
+    "topic": "cases",
+    "stem": "Tình huống 15: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C16",
+    "topic": "cases",
+    "stem": "Tình huống 16: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C17",
+    "topic": "cases",
+    "stem": "Tình huống 17: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C18",
+    "topic": "cases",
+    "stem": "Tình huống 18: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C19",
+    "topic": "cases",
+    "stem": "Tình huống 19: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C20",
+    "topic": "cases",
+    "stem": "Tình huống 20: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C21",
+    "topic": "cases",
+    "stem": "Tình huống 21: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C22",
+    "topic": "cases",
+    "stem": "Tình huống 22: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C23",
+    "topic": "cases",
+    "stem": "Tình huống 23: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C24",
+    "topic": "cases",
+    "stem": "Tình huống 24: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C25",
+    "topic": "cases",
+    "stem": "Tình huống 25: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C26",
+    "topic": "cases",
+    "stem": "Tình huống 26: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C27",
+    "topic": "cases",
+    "stem": "Tình huống 27: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C28",
+    "topic": "cases",
+    "stem": "Tình huống 28: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C29",
+    "topic": "cases",
+    "stem": "Tình huống 29: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C30",
+    "topic": "cases",
+    "stem": "Tình huống 30: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C31",
+    "topic": "cases",
+    "stem": "Tình huống 31: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C32",
+    "topic": "cases",
+    "stem": "Tình huống 32: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C33",
+    "topic": "cases",
+    "stem": "Tình huống 33: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C34",
+    "topic": "cases",
+    "stem": "Tình huống 34: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C35",
+    "topic": "cases",
+    "stem": "Tình huống 35: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C36",
+    "topic": "cases",
+    "stem": "Tình huống 36: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C37",
+    "topic": "cases",
+    "stem": "Tình huống 37: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C38",
+    "topic": "cases",
+    "stem": "Tình huống 38: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C39",
+    "topic": "cases",
+    "stem": "Tình huống 39: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C40",
+    "topic": "cases",
+    "stem": "Tình huống 40: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C41",
+    "topic": "cases",
+    "stem": "Tình huống 41: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C42",
+    "topic": "cases",
+    "stem": "Tình huống 42: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C43",
+    "topic": "cases",
+    "stem": "Tình huống 43: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C44",
+    "topic": "cases",
+    "stem": "Tình huống 44: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C45",
+    "topic": "cases",
+    "stem": "Tình huống 45: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C46",
+    "topic": "cases",
+    "stem": "Tình huống 46: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C47",
+    "topic": "cases",
+    "stem": "Tình huống 47: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C48",
+    "topic": "cases",
+    "stem": "Tình huống 48: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C49",
+    "topic": "cases",
+    "stem": "Tình huống 49: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  },
+  {
+    "id": "C50",
+    "topic": "cases",
+    "stem": "Tình huống 50: Một nhóm startup thất bại trong lần đầu, nhưng sau đó rút kinh nghiệm và tái khởi nghiệp thành công. Quy luật nào minh chứng rõ nhất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Quy luật phủ định của phủ định"
+      },
+      {
+        "id": "o2",
+        "text": "Quy luật mâu thuẫn"
+      },
+      {
+        "id": "o3",
+        "text": "Quy luật lượng - chất"
+      },
+      {
+        "id": "o4",
+        "text": "Quan hệ nguyên nhân - kết quả"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Startup thất bại nhưng kế thừa kinh nghiệm, vượt qua hạn chế để tái khởi nghiệp thành công là phủ định của phủ định.",
+    "difficulty": 2
+  }
+]
