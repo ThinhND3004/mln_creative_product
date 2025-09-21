@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { useGameStore } from "../store/gameStore";
 import { AnswerFeedback } from "./AnswerFeedback";
 
-export  function QuestionCard({ timeUp }: { timeUp?: () => void }) {
+export  function QuestionCard() {
   const { questions, current, submitAnswer, answered, lastCorrect, next } = useGameStore();
   const q = questions[current];
   if (!q) return null;

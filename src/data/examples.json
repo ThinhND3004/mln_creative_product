@@ -1,0 +1,2082 @@
+[
+  {
+    "id": "E1",
+    "topic": "examples",
+    "stem": "Ví dụ 1: Tình huống nào minh hoạ rõ nhất cho quy luật lượng - chất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Nước đun tới 100°C chuyển sang hơi"
+      },
+      {
+        "id": "o2",
+        "text": "Một bức tranh đẹp làm người xem thích thú"
+      },
+      {
+        "id": "o3",
+        "text": "Tình cờ gặp bạn cũ ở quán cà phê"
+      },
+      {
+        "id": "o4",
+        "text": "Gió thổi làm cờ bay"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Nhiệt tích luỹ (lượng) đạt điểm nút 100°C gây bước nhảy đổi chất từ lỏng sang khí.",
+    "difficulty": 2
+  },
+  {
+    "id": "E2",
+    "topic": "examples",
+    "stem": "Ví dụ 2: Tình huống nào thể hiện mâu thuẫn nội tại thúc đẩy phát triển?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Nhóm sản phẩm tranh luận gay gắt rồi thống nhất giải pháp tốt hơn"
+      },
+      {
+        "id": "o2",
+        "text": "Một người ngủ trưa"
+      },
+      {
+        "id": "o3",
+        "text": "Mua sắm theo ngẫu hứng"
+      },
+      {
+        "id": "o4",
+        "text": "Đi dạo công viên"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Đấu tranh giữa các mặt đối lập (quan điểm/giải pháp) thúc đẩy hình thành thống nhất mới.",
+    "difficulty": 2
+  },
+  {
+    "id": "E3",
+    "topic": "examples",
+    "stem": "Ví dụ 3: Minh hoạ nào đúng về phủ định của phủ định?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Startup thất bại → rút kinh nghiệm → tái khởi nghiệp thành công"
+      },
+      {
+        "id": "o2",
+        "text": "Phủ định sạch trơn mọi kinh nghiệm cũ"
+      },
+      {
+        "id": "o3",
+        "text": "Giữ nguyên mô hình cũ qua các năm"
+      },
+      {
+        "id": "o4",
+        "text": "Thay đổi logo sản phẩm"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Kế thừa hạt nhân hợp lý và vượt qua hạn chế, phát triển theo hình xoáy ốc.",
+    "difficulty": 1
+  },
+  {
+    "id": "E4",
+    "topic": "examples",
+    "stem": "Ví dụ 4: Phát biểu nào phản ánh đúng quan hệ bản chất - hiện tượng?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Giấy quỳ tím đổi màu thể hiện tính axit/bazơ của dung dịch"
+      },
+      {
+        "id": "o2",
+        "text": "Trang trí đẹp quyết định hoàn toàn chất lượng sản phẩm"
+      },
+      {
+        "id": "o3",
+        "text": "Hiện tượng luôn tách rời bản chất"
+      },
+      {
+        "id": "o4",
+        "text": "Bản chất thay đổi theo ngoại hình"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Tính axit/bazơ (bản chất) bộc lộ qua hiện tượng đổi màu.",
+    "difficulty": 1
+  },
+  {
+    "id": "E5",
+    "topic": "examples",
+    "stem": "Ví dụ 5: Tình huống nào cho thấy cái chung tồn tại trong cái riêng?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Cùng giống cây nhưng mỗi cây lớn nhanh chậm khác nhau"
+      },
+      {
+        "id": "o2",
+        "text": "Một viên đá bất động mãi mãi"
+      },
+      {
+        "id": "o3",
+        "text": "Sao chổi biến mất vĩnh viễn"
+      },
+      {
+        "id": "o4",
+        "text": "Một chiếc ghế bị hỏng"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Thuộc tính chung (quy luật sinh trưởng) biểu hiện trong từng cá thể cụ thể.",
+    "difficulty": 1
+  },
+  {
+    "id": "E6",
+    "topic": "examples",
+    "stem": "Ví dụ 6: Tình huống nào thể hiện rõ quan hệ nguyên nhân - kết quả?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Bón phân đúng cách giúp năng suất tăng"
+      },
+      {
+        "id": "o2",
+        "text": "Trời nhiều mây"
+      },
+      {
+        "id": "o3",
+        "text": "Một người cười"
+      },
+      {
+        "id": "o4",
+        "text": "Đổi phông chữ tài liệu"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Tác động bón phân (nguyên nhân) sinh ra kết quả tăng năng suất.",
+    "difficulty": 2
+  },
+  {
+    "id": "E7",
+    "topic": "examples",
+    "stem": "Ví dụ 7: Nhận định nào minh hoạ quan hệ tất nhiên - ngẫu nhiên?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Mùa lũ đến hằng năm nhưng mực nước từng ngày biến động khó đoán"
+      },
+      {
+        "id": "o2",
+        "text": "Mọi việc đều hoàn toàn ngẫu nhiên"
+      },
+      {
+        "id": "o3",
+        "text": "Chỉ có tất nhiên mới tồn tại"
+      },
+      {
+        "id": "o4",
+        "text": "Không có mối liên hệ giữa chúng"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Quy luật mùa (tất nhiên) biểu hiện qua nhiều biến cố ngẫu nhiên từng ngày.",
+    "difficulty": 1
+  },
+  {
+    "id": "E8",
+    "topic": "examples",
+    "stem": "Ví dụ 8: Khi nào một khả năng trở thành hiện thực?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Khi hội đủ điều kiện cần và đủ"
+      },
+      {
+        "id": "o2",
+        "text": "Khi cá nhân rất muốn"
+      },
+      {
+        "id": "o3",
+        "text": "Khi xoá hết rủi ro"
+      },
+      {
+        "id": "o4",
+        "text": "Tự động theo thời gian"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Khả năng chuyển hoá thành hiện thực khi điều kiện tương ứng được thoả mãn.",
+    "difficulty": 1
+  },
+  {
+    "id": "E9",
+    "topic": "examples",
+    "stem": "Ví dụ 9: Phát biểu nào đúng về nội dung - hình thức?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Đổi UI hợp lý có thể làm tăng chuyển đổi khi nội dung đã đủ giá trị"
+      },
+      {
+        "id": "o2",
+        "text": "Hình thức quyết định tuyệt đối nội dung"
+      },
+      {
+        "id": "o3",
+        "text": "Hai mặt không liên quan"
+      },
+      {
+        "id": "o4",
+        "text": "Chỉ nội dung tồn tại"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Nội dung quyết định, nhưng hình thức phù hợp sẽ thúc đẩy kết quả tốt hơn.",
+    "difficulty": 1
+  },
+  {
+    "id": "E10",
+    "topic": "examples",
+    "stem": "Ví dụ 10: Tình huống nào minh hoạ rõ nhất cho quy luật lượng - chất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Nước đun tới 100°C chuyển sang hơi"
+      },
+      {
+        "id": "o2",
+        "text": "Một bức tranh đẹp làm người xem thích thú"
+      },
+      {
+        "id": "o3",
+        "text": "Tình cờ gặp bạn cũ ở quán cà phê"
+      },
+      {
+        "id": "o4",
+        "text": "Gió thổi làm cờ bay"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Nhiệt tích luỹ (lượng) đạt điểm nút 100°C gây bước nhảy đổi chất từ lỏng sang khí.",
+    "difficulty": 1
+  },
+  {
+    "id": "E11",
+    "topic": "examples",
+    "stem": "Ví dụ 11: Tình huống nào thể hiện mâu thuẫn nội tại thúc đẩy phát triển?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Nhóm sản phẩm tranh luận gay gắt rồi thống nhất giải pháp tốt hơn"
+      },
+      {
+        "id": "o2",
+        "text": "Một người ngủ trưa"
+      },
+      {
+        "id": "o3",
+        "text": "Mua sắm theo ngẫu hứng"
+      },
+      {
+        "id": "o4",
+        "text": "Đi dạo công viên"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Đấu tranh giữa các mặt đối lập (quan điểm/giải pháp) thúc đẩy hình thành thống nhất mới.",
+    "difficulty": 1
+  },
+  {
+    "id": "E12",
+    "topic": "examples",
+    "stem": "Ví dụ 12: Minh hoạ nào đúng về phủ định của phủ định?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Startup thất bại → rút kinh nghiệm → tái khởi nghiệp thành công"
+      },
+      {
+        "id": "o2",
+        "text": "Phủ định sạch trơn mọi kinh nghiệm cũ"
+      },
+      {
+        "id": "o3",
+        "text": "Giữ nguyên mô hình cũ qua các năm"
+      },
+      {
+        "id": "o4",
+        "text": "Thay đổi logo sản phẩm"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Kế thừa hạt nhân hợp lý và vượt qua hạn chế, phát triển theo hình xoáy ốc.",
+    "difficulty": 1
+  },
+  {
+    "id": "E13",
+    "topic": "examples",
+    "stem": "Ví dụ 13: Phát biểu nào phản ánh đúng quan hệ bản chất - hiện tượng?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Giấy quỳ tím đổi màu thể hiện tính axit/bazơ của dung dịch"
+      },
+      {
+        "id": "o2",
+        "text": "Trang trí đẹp quyết định hoàn toàn chất lượng sản phẩm"
+      },
+      {
+        "id": "o3",
+        "text": "Hiện tượng luôn tách rời bản chất"
+      },
+      {
+        "id": "o4",
+        "text": "Bản chất thay đổi theo ngoại hình"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Tính axit/bazơ (bản chất) bộc lộ qua hiện tượng đổi màu.",
+    "difficulty": 1
+  },
+  {
+    "id": "E14",
+    "topic": "examples",
+    "stem": "Ví dụ 14: Tình huống nào cho thấy cái chung tồn tại trong cái riêng?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Cùng giống cây nhưng mỗi cây lớn nhanh chậm khác nhau"
+      },
+      {
+        "id": "o2",
+        "text": "Một viên đá bất động mãi mãi"
+      },
+      {
+        "id": "o3",
+        "text": "Sao chổi biến mất vĩnh viễn"
+      },
+      {
+        "id": "o4",
+        "text": "Một chiếc ghế bị hỏng"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Thuộc tính chung (quy luật sinh trưởng) biểu hiện trong từng cá thể cụ thể.",
+    "difficulty": 1
+  },
+  {
+    "id": "E15",
+    "topic": "examples",
+    "stem": "Ví dụ 15: Tình huống nào thể hiện rõ quan hệ nguyên nhân - kết quả?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Bón phân đúng cách giúp năng suất tăng"
+      },
+      {
+        "id": "o2",
+        "text": "Trời nhiều mây"
+      },
+      {
+        "id": "o3",
+        "text": "Một người cười"
+      },
+      {
+        "id": "o4",
+        "text": "Đổi phông chữ tài liệu"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Tác động bón phân (nguyên nhân) sinh ra kết quả tăng năng suất.",
+    "difficulty": 2
+  },
+  {
+    "id": "E16",
+    "topic": "examples",
+    "stem": "Ví dụ 16: Nhận định nào minh hoạ quan hệ tất nhiên - ngẫu nhiên?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Mùa lũ đến hằng năm nhưng mực nước từng ngày biến động khó đoán"
+      },
+      {
+        "id": "o2",
+        "text": "Mọi việc đều hoàn toàn ngẫu nhiên"
+      },
+      {
+        "id": "o3",
+        "text": "Chỉ có tất nhiên mới tồn tại"
+      },
+      {
+        "id": "o4",
+        "text": "Không có mối liên hệ giữa chúng"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Quy luật mùa (tất nhiên) biểu hiện qua nhiều biến cố ngẫu nhiên từng ngày.",
+    "difficulty": 1
+  },
+  {
+    "id": "E17",
+    "topic": "examples",
+    "stem": "Ví dụ 17: Khi nào một khả năng trở thành hiện thực?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Khi hội đủ điều kiện cần và đủ"
+      },
+      {
+        "id": "o2",
+        "text": "Khi cá nhân rất muốn"
+      },
+      {
+        "id": "o3",
+        "text": "Khi xoá hết rủi ro"
+      },
+      {
+        "id": "o4",
+        "text": "Tự động theo thời gian"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Khả năng chuyển hoá thành hiện thực khi điều kiện tương ứng được thoả mãn.",
+    "difficulty": 2
+  },
+  {
+    "id": "E18",
+    "topic": "examples",
+    "stem": "Ví dụ 18: Phát biểu nào đúng về nội dung - hình thức?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Đổi UI hợp lý có thể làm tăng chuyển đổi khi nội dung đã đủ giá trị"
+      },
+      {
+        "id": "o2",
+        "text": "Hình thức quyết định tuyệt đối nội dung"
+      },
+      {
+        "id": "o3",
+        "text": "Hai mặt không liên quan"
+      },
+      {
+        "id": "o4",
+        "text": "Chỉ nội dung tồn tại"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Nội dung quyết định, nhưng hình thức phù hợp sẽ thúc đẩy kết quả tốt hơn.",
+    "difficulty": 1
+  },
+  {
+    "id": "E19",
+    "topic": "examples",
+    "stem": "Ví dụ 19: Tình huống nào minh hoạ rõ nhất cho quy luật lượng - chất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Nước đun tới 100°C chuyển sang hơi"
+      },
+      {
+        "id": "o2",
+        "text": "Một bức tranh đẹp làm người xem thích thú"
+      },
+      {
+        "id": "o3",
+        "text": "Tình cờ gặp bạn cũ ở quán cà phê"
+      },
+      {
+        "id": "o4",
+        "text": "Gió thổi làm cờ bay"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Nhiệt tích luỹ (lượng) đạt điểm nút 100°C gây bước nhảy đổi chất từ lỏng sang khí.",
+    "difficulty": 2
+  },
+  {
+    "id": "E20",
+    "topic": "examples",
+    "stem": "Ví dụ 20: Tình huống nào thể hiện mâu thuẫn nội tại thúc đẩy phát triển?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Nhóm sản phẩm tranh luận gay gắt rồi thống nhất giải pháp tốt hơn"
+      },
+      {
+        "id": "o2",
+        "text": "Một người ngủ trưa"
+      },
+      {
+        "id": "o3",
+        "text": "Mua sắm theo ngẫu hứng"
+      },
+      {
+        "id": "o4",
+        "text": "Đi dạo công viên"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Đấu tranh giữa các mặt đối lập (quan điểm/giải pháp) thúc đẩy hình thành thống nhất mới.",
+    "difficulty": 1
+  },
+  {
+    "id": "E21",
+    "topic": "examples",
+    "stem": "Ví dụ 21: Minh hoạ nào đúng về phủ định của phủ định?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Startup thất bại → rút kinh nghiệm → tái khởi nghiệp thành công"
+      },
+      {
+        "id": "o2",
+        "text": "Phủ định sạch trơn mọi kinh nghiệm cũ"
+      },
+      {
+        "id": "o3",
+        "text": "Giữ nguyên mô hình cũ qua các năm"
+      },
+      {
+        "id": "o4",
+        "text": "Thay đổi logo sản phẩm"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Kế thừa hạt nhân hợp lý và vượt qua hạn chế, phát triển theo hình xoáy ốc.",
+    "difficulty": 2
+  },
+  {
+    "id": "E22",
+    "topic": "examples",
+    "stem": "Ví dụ 22: Phát biểu nào phản ánh đúng quan hệ bản chất - hiện tượng?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Giấy quỳ tím đổi màu thể hiện tính axit/bazơ của dung dịch"
+      },
+      {
+        "id": "o2",
+        "text": "Trang trí đẹp quyết định hoàn toàn chất lượng sản phẩm"
+      },
+      {
+        "id": "o3",
+        "text": "Hiện tượng luôn tách rời bản chất"
+      },
+      {
+        "id": "o4",
+        "text": "Bản chất thay đổi theo ngoại hình"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Tính axit/bazơ (bản chất) bộc lộ qua hiện tượng đổi màu.",
+    "difficulty": 1
+  },
+  {
+    "id": "E23",
+    "topic": "examples",
+    "stem": "Ví dụ 23: Tình huống nào cho thấy cái chung tồn tại trong cái riêng?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Cùng giống cây nhưng mỗi cây lớn nhanh chậm khác nhau"
+      },
+      {
+        "id": "o2",
+        "text": "Một viên đá bất động mãi mãi"
+      },
+      {
+        "id": "o3",
+        "text": "Sao chổi biến mất vĩnh viễn"
+      },
+      {
+        "id": "o4",
+        "text": "Một chiếc ghế bị hỏng"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Thuộc tính chung (quy luật sinh trưởng) biểu hiện trong từng cá thể cụ thể.",
+    "difficulty": 1
+  },
+  {
+    "id": "E24",
+    "topic": "examples",
+    "stem": "Ví dụ 24: Tình huống nào thể hiện rõ quan hệ nguyên nhân - kết quả?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Bón phân đúng cách giúp năng suất tăng"
+      },
+      {
+        "id": "o2",
+        "text": "Trời nhiều mây"
+      },
+      {
+        "id": "o3",
+        "text": "Một người cười"
+      },
+      {
+        "id": "o4",
+        "text": "Đổi phông chữ tài liệu"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Tác động bón phân (nguyên nhân) sinh ra kết quả tăng năng suất.",
+    "difficulty": 2
+  },
+  {
+    "id": "E25",
+    "topic": "examples",
+    "stem": "Ví dụ 25: Nhận định nào minh hoạ quan hệ tất nhiên - ngẫu nhiên?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Mùa lũ đến hằng năm nhưng mực nước từng ngày biến động khó đoán"
+      },
+      {
+        "id": "o2",
+        "text": "Mọi việc đều hoàn toàn ngẫu nhiên"
+      },
+      {
+        "id": "o3",
+        "text": "Chỉ có tất nhiên mới tồn tại"
+      },
+      {
+        "id": "o4",
+        "text": "Không có mối liên hệ giữa chúng"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Quy luật mùa (tất nhiên) biểu hiện qua nhiều biến cố ngẫu nhiên từng ngày.",
+    "difficulty": 1
+  },
+  {
+    "id": "E26",
+    "topic": "examples",
+    "stem": "Ví dụ 26: Khi nào một khả năng trở thành hiện thực?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Khi hội đủ điều kiện cần và đủ"
+      },
+      {
+        "id": "o2",
+        "text": "Khi cá nhân rất muốn"
+      },
+      {
+        "id": "o3",
+        "text": "Khi xoá hết rủi ro"
+      },
+      {
+        "id": "o4",
+        "text": "Tự động theo thời gian"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Khả năng chuyển hoá thành hiện thực khi điều kiện tương ứng được thoả mãn.",
+    "difficulty": 1
+  },
+  {
+    "id": "E27",
+    "topic": "examples",
+    "stem": "Ví dụ 27: Phát biểu nào đúng về nội dung - hình thức?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Đổi UI hợp lý có thể làm tăng chuyển đổi khi nội dung đã đủ giá trị"
+      },
+      {
+        "id": "o2",
+        "text": "Hình thức quyết định tuyệt đối nội dung"
+      },
+      {
+        "id": "o3",
+        "text": "Hai mặt không liên quan"
+      },
+      {
+        "id": "o4",
+        "text": "Chỉ nội dung tồn tại"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Nội dung quyết định, nhưng hình thức phù hợp sẽ thúc đẩy kết quả tốt hơn.",
+    "difficulty": 1
+  },
+  {
+    "id": "E28",
+    "topic": "examples",
+    "stem": "Ví dụ 28: Tình huống nào minh hoạ rõ nhất cho quy luật lượng - chất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Nước đun tới 100°C chuyển sang hơi"
+      },
+      {
+        "id": "o2",
+        "text": "Một bức tranh đẹp làm người xem thích thú"
+      },
+      {
+        "id": "o3",
+        "text": "Tình cờ gặp bạn cũ ở quán cà phê"
+      },
+      {
+        "id": "o4",
+        "text": "Gió thổi làm cờ bay"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Nhiệt tích luỹ (lượng) đạt điểm nút 100°C gây bước nhảy đổi chất từ lỏng sang khí.",
+    "difficulty": 2
+  },
+  {
+    "id": "E29",
+    "topic": "examples",
+    "stem": "Ví dụ 29: Tình huống nào thể hiện mâu thuẫn nội tại thúc đẩy phát triển?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Nhóm sản phẩm tranh luận gay gắt rồi thống nhất giải pháp tốt hơn"
+      },
+      {
+        "id": "o2",
+        "text": "Một người ngủ trưa"
+      },
+      {
+        "id": "o3",
+        "text": "Mua sắm theo ngẫu hứng"
+      },
+      {
+        "id": "o4",
+        "text": "Đi dạo công viên"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Đấu tranh giữa các mặt đối lập (quan điểm/giải pháp) thúc đẩy hình thành thống nhất mới.",
+    "difficulty": 1
+  },
+  {
+    "id": "E30",
+    "topic": "examples",
+    "stem": "Ví dụ 30: Minh hoạ nào đúng về phủ định của phủ định?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Startup thất bại → rút kinh nghiệm → tái khởi nghiệp thành công"
+      },
+      {
+        "id": "o2",
+        "text": "Phủ định sạch trơn mọi kinh nghiệm cũ"
+      },
+      {
+        "id": "o3",
+        "text": "Giữ nguyên mô hình cũ qua các năm"
+      },
+      {
+        "id": "o4",
+        "text": "Thay đổi logo sản phẩm"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Kế thừa hạt nhân hợp lý và vượt qua hạn chế, phát triển theo hình xoáy ốc.",
+    "difficulty": 1
+  },
+  {
+    "id": "E31",
+    "topic": "examples",
+    "stem": "Ví dụ 31: Phát biểu nào phản ánh đúng quan hệ bản chất - hiện tượng?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Giấy quỳ tím đổi màu thể hiện tính axit/bazơ của dung dịch"
+      },
+      {
+        "id": "o2",
+        "text": "Trang trí đẹp quyết định hoàn toàn chất lượng sản phẩm"
+      },
+      {
+        "id": "o3",
+        "text": "Hiện tượng luôn tách rời bản chất"
+      },
+      {
+        "id": "o4",
+        "text": "Bản chất thay đổi theo ngoại hình"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Tính axit/bazơ (bản chất) bộc lộ qua hiện tượng đổi màu.",
+    "difficulty": 2
+  },
+  {
+    "id": "E32",
+    "topic": "examples",
+    "stem": "Ví dụ 32: Tình huống nào cho thấy cái chung tồn tại trong cái riêng?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Cùng giống cây nhưng mỗi cây lớn nhanh chậm khác nhau"
+      },
+      {
+        "id": "o2",
+        "text": "Một viên đá bất động mãi mãi"
+      },
+      {
+        "id": "o3",
+        "text": "Sao chổi biến mất vĩnh viễn"
+      },
+      {
+        "id": "o4",
+        "text": "Một chiếc ghế bị hỏng"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Thuộc tính chung (quy luật sinh trưởng) biểu hiện trong từng cá thể cụ thể.",
+    "difficulty": 1
+  },
+  {
+    "id": "E33",
+    "topic": "examples",
+    "stem": "Ví dụ 33: Tình huống nào thể hiện rõ quan hệ nguyên nhân - kết quả?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Bón phân đúng cách giúp năng suất tăng"
+      },
+      {
+        "id": "o2",
+        "text": "Trời nhiều mây"
+      },
+      {
+        "id": "o3",
+        "text": "Một người cười"
+      },
+      {
+        "id": "o4",
+        "text": "Đổi phông chữ tài liệu"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Tác động bón phân (nguyên nhân) sinh ra kết quả tăng năng suất.",
+    "difficulty": 1
+  },
+  {
+    "id": "E34",
+    "topic": "examples",
+    "stem": "Ví dụ 34: Nhận định nào minh hoạ quan hệ tất nhiên - ngẫu nhiên?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Mùa lũ đến hằng năm nhưng mực nước từng ngày biến động khó đoán"
+      },
+      {
+        "id": "o2",
+        "text": "Mọi việc đều hoàn toàn ngẫu nhiên"
+      },
+      {
+        "id": "o3",
+        "text": "Chỉ có tất nhiên mới tồn tại"
+      },
+      {
+        "id": "o4",
+        "text": "Không có mối liên hệ giữa chúng"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Quy luật mùa (tất nhiên) biểu hiện qua nhiều biến cố ngẫu nhiên từng ngày.",
+    "difficulty": 1
+  },
+  {
+    "id": "E35",
+    "topic": "examples",
+    "stem": "Ví dụ 35: Khi nào một khả năng trở thành hiện thực?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Khi hội đủ điều kiện cần và đủ"
+      },
+      {
+        "id": "o2",
+        "text": "Khi cá nhân rất muốn"
+      },
+      {
+        "id": "o3",
+        "text": "Khi xoá hết rủi ro"
+      },
+      {
+        "id": "o4",
+        "text": "Tự động theo thời gian"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Khả năng chuyển hoá thành hiện thực khi điều kiện tương ứng được thoả mãn.",
+    "difficulty": 1
+  },
+  {
+    "id": "E36",
+    "topic": "examples",
+    "stem": "Ví dụ 36: Phát biểu nào đúng về nội dung - hình thức?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Đổi UI hợp lý có thể làm tăng chuyển đổi khi nội dung đã đủ giá trị"
+      },
+      {
+        "id": "o2",
+        "text": "Hình thức quyết định tuyệt đối nội dung"
+      },
+      {
+        "id": "o3",
+        "text": "Hai mặt không liên quan"
+      },
+      {
+        "id": "o4",
+        "text": "Chỉ nội dung tồn tại"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Nội dung quyết định, nhưng hình thức phù hợp sẽ thúc đẩy kết quả tốt hơn.",
+    "difficulty": 1
+  },
+  {
+    "id": "E37",
+    "topic": "examples",
+    "stem": "Ví dụ 37: Tình huống nào minh hoạ rõ nhất cho quy luật lượng - chất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Nước đun tới 100°C chuyển sang hơi"
+      },
+      {
+        "id": "o2",
+        "text": "Một bức tranh đẹp làm người xem thích thú"
+      },
+      {
+        "id": "o3",
+        "text": "Tình cờ gặp bạn cũ ở quán cà phê"
+      },
+      {
+        "id": "o4",
+        "text": "Gió thổi làm cờ bay"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Nhiệt tích luỹ (lượng) đạt điểm nút 100°C gây bước nhảy đổi chất từ lỏng sang khí.",
+    "difficulty": 1
+  },
+  {
+    "id": "E38",
+    "topic": "examples",
+    "stem": "Ví dụ 38: Tình huống nào thể hiện mâu thuẫn nội tại thúc đẩy phát triển?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Nhóm sản phẩm tranh luận gay gắt rồi thống nhất giải pháp tốt hơn"
+      },
+      {
+        "id": "o2",
+        "text": "Một người ngủ trưa"
+      },
+      {
+        "id": "o3",
+        "text": "Mua sắm theo ngẫu hứng"
+      },
+      {
+        "id": "o4",
+        "text": "Đi dạo công viên"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Đấu tranh giữa các mặt đối lập (quan điểm/giải pháp) thúc đẩy hình thành thống nhất mới.",
+    "difficulty": 1
+  },
+  {
+    "id": "E39",
+    "topic": "examples",
+    "stem": "Ví dụ 39: Minh hoạ nào đúng về phủ định của phủ định?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Startup thất bại → rút kinh nghiệm → tái khởi nghiệp thành công"
+      },
+      {
+        "id": "o2",
+        "text": "Phủ định sạch trơn mọi kinh nghiệm cũ"
+      },
+      {
+        "id": "o3",
+        "text": "Giữ nguyên mô hình cũ qua các năm"
+      },
+      {
+        "id": "o4",
+        "text": "Thay đổi logo sản phẩm"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Kế thừa hạt nhân hợp lý và vượt qua hạn chế, phát triển theo hình xoáy ốc.",
+    "difficulty": 1
+  },
+  {
+    "id": "E40",
+    "topic": "examples",
+    "stem": "Ví dụ 40: Phát biểu nào phản ánh đúng quan hệ bản chất - hiện tượng?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Giấy quỳ tím đổi màu thể hiện tính axit/bazơ của dung dịch"
+      },
+      {
+        "id": "o2",
+        "text": "Trang trí đẹp quyết định hoàn toàn chất lượng sản phẩm"
+      },
+      {
+        "id": "o3",
+        "text": "Hiện tượng luôn tách rời bản chất"
+      },
+      {
+        "id": "o4",
+        "text": "Bản chất thay đổi theo ngoại hình"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Tính axit/bazơ (bản chất) bộc lộ qua hiện tượng đổi màu.",
+    "difficulty": 1
+  },
+  {
+    "id": "E41",
+    "topic": "examples",
+    "stem": "Ví dụ 41: Tình huống nào cho thấy cái chung tồn tại trong cái riêng?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Cùng giống cây nhưng mỗi cây lớn nhanh chậm khác nhau"
+      },
+      {
+        "id": "o2",
+        "text": "Một viên đá bất động mãi mãi"
+      },
+      {
+        "id": "o3",
+        "text": "Sao chổi biến mất vĩnh viễn"
+      },
+      {
+        "id": "o4",
+        "text": "Một chiếc ghế bị hỏng"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Thuộc tính chung (quy luật sinh trưởng) biểu hiện trong từng cá thể cụ thể.",
+    "difficulty": 1
+  },
+  {
+    "id": "E42",
+    "topic": "examples",
+    "stem": "Ví dụ 42: Tình huống nào thể hiện rõ quan hệ nguyên nhân - kết quả?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Bón phân đúng cách giúp năng suất tăng"
+      },
+      {
+        "id": "o2",
+        "text": "Trời nhiều mây"
+      },
+      {
+        "id": "o3",
+        "text": "Một người cười"
+      },
+      {
+        "id": "o4",
+        "text": "Đổi phông chữ tài liệu"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Tác động bón phân (nguyên nhân) sinh ra kết quả tăng năng suất.",
+    "difficulty": 1
+  },
+  {
+    "id": "E43",
+    "topic": "examples",
+    "stem": "Ví dụ 43: Nhận định nào minh hoạ quan hệ tất nhiên - ngẫu nhiên?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Mùa lũ đến hằng năm nhưng mực nước từng ngày biến động khó đoán"
+      },
+      {
+        "id": "o2",
+        "text": "Mọi việc đều hoàn toàn ngẫu nhiên"
+      },
+      {
+        "id": "o3",
+        "text": "Chỉ có tất nhiên mới tồn tại"
+      },
+      {
+        "id": "o4",
+        "text": "Không có mối liên hệ giữa chúng"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Quy luật mùa (tất nhiên) biểu hiện qua nhiều biến cố ngẫu nhiên từng ngày.",
+    "difficulty": 2
+  },
+  {
+    "id": "E44",
+    "topic": "examples",
+    "stem": "Ví dụ 44: Khi nào một khả năng trở thành hiện thực?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Khi hội đủ điều kiện cần và đủ"
+      },
+      {
+        "id": "o2",
+        "text": "Khi cá nhân rất muốn"
+      },
+      {
+        "id": "o3",
+        "text": "Khi xoá hết rủi ro"
+      },
+      {
+        "id": "o4",
+        "text": "Tự động theo thời gian"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Khả năng chuyển hoá thành hiện thực khi điều kiện tương ứng được thoả mãn.",
+    "difficulty": 1
+  },
+  {
+    "id": "E45",
+    "topic": "examples",
+    "stem": "Ví dụ 45: Phát biểu nào đúng về nội dung - hình thức?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Đổi UI hợp lý có thể làm tăng chuyển đổi khi nội dung đã đủ giá trị"
+      },
+      {
+        "id": "o2",
+        "text": "Hình thức quyết định tuyệt đối nội dung"
+      },
+      {
+        "id": "o3",
+        "text": "Hai mặt không liên quan"
+      },
+      {
+        "id": "o4",
+        "text": "Chỉ nội dung tồn tại"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Nội dung quyết định, nhưng hình thức phù hợp sẽ thúc đẩy kết quả tốt hơn.",
+    "difficulty": 1
+  },
+  {
+    "id": "E46",
+    "topic": "examples",
+    "stem": "Ví dụ 46: Tình huống nào minh hoạ rõ nhất cho quy luật lượng - chất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Nước đun tới 100°C chuyển sang hơi"
+      },
+      {
+        "id": "o2",
+        "text": "Một bức tranh đẹp làm người xem thích thú"
+      },
+      {
+        "id": "o3",
+        "text": "Tình cờ gặp bạn cũ ở quán cà phê"
+      },
+      {
+        "id": "o4",
+        "text": "Gió thổi làm cờ bay"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Nhiệt tích luỹ (lượng) đạt điểm nút 100°C gây bước nhảy đổi chất từ lỏng sang khí.",
+    "difficulty": 2
+  },
+  {
+    "id": "E47",
+    "topic": "examples",
+    "stem": "Ví dụ 47: Tình huống nào thể hiện mâu thuẫn nội tại thúc đẩy phát triển?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Nhóm sản phẩm tranh luận gay gắt rồi thống nhất giải pháp tốt hơn"
+      },
+      {
+        "id": "o2",
+        "text": "Một người ngủ trưa"
+      },
+      {
+        "id": "o3",
+        "text": "Mua sắm theo ngẫu hứng"
+      },
+      {
+        "id": "o4",
+        "text": "Đi dạo công viên"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Đấu tranh giữa các mặt đối lập (quan điểm/giải pháp) thúc đẩy hình thành thống nhất mới.",
+    "difficulty": 1
+  },
+  {
+    "id": "E48",
+    "topic": "examples",
+    "stem": "Ví dụ 48: Minh hoạ nào đúng về phủ định của phủ định?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Startup thất bại → rút kinh nghiệm → tái khởi nghiệp thành công"
+      },
+      {
+        "id": "o2",
+        "text": "Phủ định sạch trơn mọi kinh nghiệm cũ"
+      },
+      {
+        "id": "o3",
+        "text": "Giữ nguyên mô hình cũ qua các năm"
+      },
+      {
+        "id": "o4",
+        "text": "Thay đổi logo sản phẩm"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Kế thừa hạt nhân hợp lý và vượt qua hạn chế, phát triển theo hình xoáy ốc.",
+    "difficulty": 1
+  },
+  {
+    "id": "E49",
+    "topic": "examples",
+    "stem": "Ví dụ 49: Phát biểu nào phản ánh đúng quan hệ bản chất - hiện tượng?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Giấy quỳ tím đổi màu thể hiện tính axit/bazơ của dung dịch"
+      },
+      {
+        "id": "o2",
+        "text": "Trang trí đẹp quyết định hoàn toàn chất lượng sản phẩm"
+      },
+      {
+        "id": "o3",
+        "text": "Hiện tượng luôn tách rời bản chất"
+      },
+      {
+        "id": "o4",
+        "text": "Bản chất thay đổi theo ngoại hình"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Tính axit/bazơ (bản chất) bộc lộ qua hiện tượng đổi màu.",
+    "difficulty": 2
+  },
+  {
+    "id": "E50",
+    "topic": "examples",
+    "stem": "Ví dụ 50: Tình huống nào cho thấy cái chung tồn tại trong cái riêng?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Cùng giống cây nhưng mỗi cây lớn nhanh chậm khác nhau"
+      },
+      {
+        "id": "o2",
+        "text": "Một viên đá bất động mãi mãi"
+      },
+      {
+        "id": "o3",
+        "text": "Sao chổi biến mất vĩnh viễn"
+      },
+      {
+        "id": "o4",
+        "text": "Một chiếc ghế bị hỏng"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Thuộc tính chung (quy luật sinh trưởng) biểu hiện trong từng cá thể cụ thể.",
+    "difficulty": 2
+  },
+  {
+    "id": "E51",
+    "topic": "examples",
+    "stem": "Ví dụ 51: Tình huống nào thể hiện rõ quan hệ nguyên nhân - kết quả?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Bón phân đúng cách giúp năng suất tăng"
+      },
+      {
+        "id": "o2",
+        "text": "Trời nhiều mây"
+      },
+      {
+        "id": "o3",
+        "text": "Một người cười"
+      },
+      {
+        "id": "o4",
+        "text": "Đổi phông chữ tài liệu"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Tác động bón phân (nguyên nhân) sinh ra kết quả tăng năng suất.",
+    "difficulty": 2
+  },
+  {
+    "id": "E52",
+    "topic": "examples",
+    "stem": "Ví dụ 52: Nhận định nào minh hoạ quan hệ tất nhiên - ngẫu nhiên?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Mùa lũ đến hằng năm nhưng mực nước từng ngày biến động khó đoán"
+      },
+      {
+        "id": "o2",
+        "text": "Mọi việc đều hoàn toàn ngẫu nhiên"
+      },
+      {
+        "id": "o3",
+        "text": "Chỉ có tất nhiên mới tồn tại"
+      },
+      {
+        "id": "o4",
+        "text": "Không có mối liên hệ giữa chúng"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Quy luật mùa (tất nhiên) biểu hiện qua nhiều biến cố ngẫu nhiên từng ngày.",
+    "difficulty": 1
+  },
+  {
+    "id": "E53",
+    "topic": "examples",
+    "stem": "Ví dụ 53: Khi nào một khả năng trở thành hiện thực?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Khi hội đủ điều kiện cần và đủ"
+      },
+      {
+        "id": "o2",
+        "text": "Khi cá nhân rất muốn"
+      },
+      {
+        "id": "o3",
+        "text": "Khi xoá hết rủi ro"
+      },
+      {
+        "id": "o4",
+        "text": "Tự động theo thời gian"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Khả năng chuyển hoá thành hiện thực khi điều kiện tương ứng được thoả mãn.",
+    "difficulty": 1
+  },
+  {
+    "id": "E54",
+    "topic": "examples",
+    "stem": "Ví dụ 54: Phát biểu nào đúng về nội dung - hình thức?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Đổi UI hợp lý có thể làm tăng chuyển đổi khi nội dung đã đủ giá trị"
+      },
+      {
+        "id": "o2",
+        "text": "Hình thức quyết định tuyệt đối nội dung"
+      },
+      {
+        "id": "o3",
+        "text": "Hai mặt không liên quan"
+      },
+      {
+        "id": "o4",
+        "text": "Chỉ nội dung tồn tại"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Nội dung quyết định, nhưng hình thức phù hợp sẽ thúc đẩy kết quả tốt hơn.",
+    "difficulty": 1
+  },
+  {
+    "id": "E55",
+    "topic": "examples",
+    "stem": "Ví dụ 55: Tình huống nào minh hoạ rõ nhất cho quy luật lượng - chất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Nước đun tới 100°C chuyển sang hơi"
+      },
+      {
+        "id": "o2",
+        "text": "Một bức tranh đẹp làm người xem thích thú"
+      },
+      {
+        "id": "o3",
+        "text": "Tình cờ gặp bạn cũ ở quán cà phê"
+      },
+      {
+        "id": "o4",
+        "text": "Gió thổi làm cờ bay"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Nhiệt tích luỹ (lượng) đạt điểm nút 100°C gây bước nhảy đổi chất từ lỏng sang khí.",
+    "difficulty": 2
+  },
+  {
+    "id": "E56",
+    "topic": "examples",
+    "stem": "Ví dụ 56: Tình huống nào thể hiện mâu thuẫn nội tại thúc đẩy phát triển?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Nhóm sản phẩm tranh luận gay gắt rồi thống nhất giải pháp tốt hơn"
+      },
+      {
+        "id": "o2",
+        "text": "Một người ngủ trưa"
+      },
+      {
+        "id": "o3",
+        "text": "Mua sắm theo ngẫu hứng"
+      },
+      {
+        "id": "o4",
+        "text": "Đi dạo công viên"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Đấu tranh giữa các mặt đối lập (quan điểm/giải pháp) thúc đẩy hình thành thống nhất mới.",
+    "difficulty": 2
+  },
+  {
+    "id": "E57",
+    "topic": "examples",
+    "stem": "Ví dụ 57: Minh hoạ nào đúng về phủ định của phủ định?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Startup thất bại → rút kinh nghiệm → tái khởi nghiệp thành công"
+      },
+      {
+        "id": "o2",
+        "text": "Phủ định sạch trơn mọi kinh nghiệm cũ"
+      },
+      {
+        "id": "o3",
+        "text": "Giữ nguyên mô hình cũ qua các năm"
+      },
+      {
+        "id": "o4",
+        "text": "Thay đổi logo sản phẩm"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Kế thừa hạt nhân hợp lý và vượt qua hạn chế, phát triển theo hình xoáy ốc.",
+    "difficulty": 1
+  },
+  {
+    "id": "E58",
+    "topic": "examples",
+    "stem": "Ví dụ 58: Phát biểu nào phản ánh đúng quan hệ bản chất - hiện tượng?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Giấy quỳ tím đổi màu thể hiện tính axit/bazơ của dung dịch"
+      },
+      {
+        "id": "o2",
+        "text": "Trang trí đẹp quyết định hoàn toàn chất lượng sản phẩm"
+      },
+      {
+        "id": "o3",
+        "text": "Hiện tượng luôn tách rời bản chất"
+      },
+      {
+        "id": "o4",
+        "text": "Bản chất thay đổi theo ngoại hình"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Tính axit/bazơ (bản chất) bộc lộ qua hiện tượng đổi màu.",
+    "difficulty": 2
+  },
+  {
+    "id": "E59",
+    "topic": "examples",
+    "stem": "Ví dụ 59: Tình huống nào cho thấy cái chung tồn tại trong cái riêng?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Cùng giống cây nhưng mỗi cây lớn nhanh chậm khác nhau"
+      },
+      {
+        "id": "o2",
+        "text": "Một viên đá bất động mãi mãi"
+      },
+      {
+        "id": "o3",
+        "text": "Sao chổi biến mất vĩnh viễn"
+      },
+      {
+        "id": "o4",
+        "text": "Một chiếc ghế bị hỏng"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Thuộc tính chung (quy luật sinh trưởng) biểu hiện trong từng cá thể cụ thể.",
+    "difficulty": 1
+  },
+  {
+    "id": "E60",
+    "topic": "examples",
+    "stem": "Ví dụ 60: Tình huống nào thể hiện rõ quan hệ nguyên nhân - kết quả?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Bón phân đúng cách giúp năng suất tăng"
+      },
+      {
+        "id": "o2",
+        "text": "Trời nhiều mây"
+      },
+      {
+        "id": "o3",
+        "text": "Một người cười"
+      },
+      {
+        "id": "o4",
+        "text": "Đổi phông chữ tài liệu"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Tác động bón phân (nguyên nhân) sinh ra kết quả tăng năng suất.",
+    "difficulty": 1
+  },
+  {
+    "id": "E61",
+    "topic": "examples",
+    "stem": "Ví dụ 61: Nhận định nào minh hoạ quan hệ tất nhiên - ngẫu nhiên?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Mùa lũ đến hằng năm nhưng mực nước từng ngày biến động khó đoán"
+      },
+      {
+        "id": "o2",
+        "text": "Mọi việc đều hoàn toàn ngẫu nhiên"
+      },
+      {
+        "id": "o3",
+        "text": "Chỉ có tất nhiên mới tồn tại"
+      },
+      {
+        "id": "o4",
+        "text": "Không có mối liên hệ giữa chúng"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Quy luật mùa (tất nhiên) biểu hiện qua nhiều biến cố ngẫu nhiên từng ngày.",
+    "difficulty": 1
+  },
+  {
+    "id": "E62",
+    "topic": "examples",
+    "stem": "Ví dụ 62: Khi nào một khả năng trở thành hiện thực?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Khi hội đủ điều kiện cần và đủ"
+      },
+      {
+        "id": "o2",
+        "text": "Khi cá nhân rất muốn"
+      },
+      {
+        "id": "o3",
+        "text": "Khi xoá hết rủi ro"
+      },
+      {
+        "id": "o4",
+        "text": "Tự động theo thời gian"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Khả năng chuyển hoá thành hiện thực khi điều kiện tương ứng được thoả mãn.",
+    "difficulty": 1
+  },
+  {
+    "id": "E63",
+    "topic": "examples",
+    "stem": "Ví dụ 63: Phát biểu nào đúng về nội dung - hình thức?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Đổi UI hợp lý có thể làm tăng chuyển đổi khi nội dung đã đủ giá trị"
+      },
+      {
+        "id": "o2",
+        "text": "Hình thức quyết định tuyệt đối nội dung"
+      },
+      {
+        "id": "o3",
+        "text": "Hai mặt không liên quan"
+      },
+      {
+        "id": "o4",
+        "text": "Chỉ nội dung tồn tại"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Nội dung quyết định, nhưng hình thức phù hợp sẽ thúc đẩy kết quả tốt hơn.",
+    "difficulty": 1
+  },
+  {
+    "id": "E64",
+    "topic": "examples",
+    "stem": "Ví dụ 64: Tình huống nào minh hoạ rõ nhất cho quy luật lượng - chất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Nước đun tới 100°C chuyển sang hơi"
+      },
+      {
+        "id": "o2",
+        "text": "Một bức tranh đẹp làm người xem thích thú"
+      },
+      {
+        "id": "o3",
+        "text": "Tình cờ gặp bạn cũ ở quán cà phê"
+      },
+      {
+        "id": "o4",
+        "text": "Gió thổi làm cờ bay"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Nhiệt tích luỹ (lượng) đạt điểm nút 100°C gây bước nhảy đổi chất từ lỏng sang khí.",
+    "difficulty": 1
+  },
+  {
+    "id": "E65",
+    "topic": "examples",
+    "stem": "Ví dụ 65: Tình huống nào thể hiện mâu thuẫn nội tại thúc đẩy phát triển?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Nhóm sản phẩm tranh luận gay gắt rồi thống nhất giải pháp tốt hơn"
+      },
+      {
+        "id": "o2",
+        "text": "Một người ngủ trưa"
+      },
+      {
+        "id": "o3",
+        "text": "Mua sắm theo ngẫu hứng"
+      },
+      {
+        "id": "o4",
+        "text": "Đi dạo công viên"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Đấu tranh giữa các mặt đối lập (quan điểm/giải pháp) thúc đẩy hình thành thống nhất mới.",
+    "difficulty": 1
+  },
+  {
+    "id": "E66",
+    "topic": "examples",
+    "stem": "Ví dụ 66: Minh hoạ nào đúng về phủ định của phủ định?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Startup thất bại → rút kinh nghiệm → tái khởi nghiệp thành công"
+      },
+      {
+        "id": "o2",
+        "text": "Phủ định sạch trơn mọi kinh nghiệm cũ"
+      },
+      {
+        "id": "o3",
+        "text": "Giữ nguyên mô hình cũ qua các năm"
+      },
+      {
+        "id": "o4",
+        "text": "Thay đổi logo sản phẩm"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Kế thừa hạt nhân hợp lý và vượt qua hạn chế, phát triển theo hình xoáy ốc.",
+    "difficulty": 2
+  },
+  {
+    "id": "E67",
+    "topic": "examples",
+    "stem": "Ví dụ 67: Phát biểu nào phản ánh đúng quan hệ bản chất - hiện tượng?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Giấy quỳ tím đổi màu thể hiện tính axit/bazơ của dung dịch"
+      },
+      {
+        "id": "o2",
+        "text": "Trang trí đẹp quyết định hoàn toàn chất lượng sản phẩm"
+      },
+      {
+        "id": "o3",
+        "text": "Hiện tượng luôn tách rời bản chất"
+      },
+      {
+        "id": "o4",
+        "text": "Bản chất thay đổi theo ngoại hình"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Tính axit/bazơ (bản chất) bộc lộ qua hiện tượng đổi màu.",
+    "difficulty": 2
+  },
+  {
+    "id": "E68",
+    "topic": "examples",
+    "stem": "Ví dụ 68: Tình huống nào cho thấy cái chung tồn tại trong cái riêng?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Cùng giống cây nhưng mỗi cây lớn nhanh chậm khác nhau"
+      },
+      {
+        "id": "o2",
+        "text": "Một viên đá bất động mãi mãi"
+      },
+      {
+        "id": "o3",
+        "text": "Sao chổi biến mất vĩnh viễn"
+      },
+      {
+        "id": "o4",
+        "text": "Một chiếc ghế bị hỏng"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Thuộc tính chung (quy luật sinh trưởng) biểu hiện trong từng cá thể cụ thể.",
+    "difficulty": 1
+  },
+  {
+    "id": "E69",
+    "topic": "examples",
+    "stem": "Ví dụ 69: Tình huống nào thể hiện rõ quan hệ nguyên nhân - kết quả?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Bón phân đúng cách giúp năng suất tăng"
+      },
+      {
+        "id": "o2",
+        "text": "Trời nhiều mây"
+      },
+      {
+        "id": "o3",
+        "text": "Một người cười"
+      },
+      {
+        "id": "o4",
+        "text": "Đổi phông chữ tài liệu"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Tác động bón phân (nguyên nhân) sinh ra kết quả tăng năng suất.",
+    "difficulty": 2
+  },
+  {
+    "id": "E70",
+    "topic": "examples",
+    "stem": "Ví dụ 70: Nhận định nào minh hoạ quan hệ tất nhiên - ngẫu nhiên?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Mùa lũ đến hằng năm nhưng mực nước từng ngày biến động khó đoán"
+      },
+      {
+        "id": "o2",
+        "text": "Mọi việc đều hoàn toàn ngẫu nhiên"
+      },
+      {
+        "id": "o3",
+        "text": "Chỉ có tất nhiên mới tồn tại"
+      },
+      {
+        "id": "o4",
+        "text": "Không có mối liên hệ giữa chúng"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Quy luật mùa (tất nhiên) biểu hiện qua nhiều biến cố ngẫu nhiên từng ngày.",
+    "difficulty": 1
+  },
+  {
+    "id": "E71",
+    "topic": "examples",
+    "stem": "Ví dụ 71: Khi nào một khả năng trở thành hiện thực?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Khi hội đủ điều kiện cần và đủ"
+      },
+      {
+        "id": "o2",
+        "text": "Khi cá nhân rất muốn"
+      },
+      {
+        "id": "o3",
+        "text": "Khi xoá hết rủi ro"
+      },
+      {
+        "id": "o4",
+        "text": "Tự động theo thời gian"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Khả năng chuyển hoá thành hiện thực khi điều kiện tương ứng được thoả mãn.",
+    "difficulty": 1
+  },
+  {
+    "id": "E72",
+    "topic": "examples",
+    "stem": "Ví dụ 72: Phát biểu nào đúng về nội dung - hình thức?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Đổi UI hợp lý có thể làm tăng chuyển đổi khi nội dung đã đủ giá trị"
+      },
+      {
+        "id": "o2",
+        "text": "Hình thức quyết định tuyệt đối nội dung"
+      },
+      {
+        "id": "o3",
+        "text": "Hai mặt không liên quan"
+      },
+      {
+        "id": "o4",
+        "text": "Chỉ nội dung tồn tại"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Nội dung quyết định, nhưng hình thức phù hợp sẽ thúc đẩy kết quả tốt hơn.",
+    "difficulty": 1
+  },
+  {
+    "id": "E73",
+    "topic": "examples",
+    "stem": "Ví dụ 73: Tình huống nào minh hoạ rõ nhất cho quy luật lượng - chất?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Nước đun tới 100°C chuyển sang hơi"
+      },
+      {
+        "id": "o2",
+        "text": "Một bức tranh đẹp làm người xem thích thú"
+      },
+      {
+        "id": "o3",
+        "text": "Tình cờ gặp bạn cũ ở quán cà phê"
+      },
+      {
+        "id": "o4",
+        "text": "Gió thổi làm cờ bay"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Nhiệt tích luỹ (lượng) đạt điểm nút 100°C gây bước nhảy đổi chất từ lỏng sang khí.",
+    "difficulty": 1
+  },
+  {
+    "id": "E74",
+    "topic": "examples",
+    "stem": "Ví dụ 74: Tình huống nào thể hiện mâu thuẫn nội tại thúc đẩy phát triển?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Nhóm sản phẩm tranh luận gay gắt rồi thống nhất giải pháp tốt hơn"
+      },
+      {
+        "id": "o2",
+        "text": "Một người ngủ trưa"
+      },
+      {
+        "id": "o3",
+        "text": "Mua sắm theo ngẫu hứng"
+      },
+      {
+        "id": "o4",
+        "text": "Đi dạo công viên"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Đấu tranh giữa các mặt đối lập (quan điểm/giải pháp) thúc đẩy hình thành thống nhất mới.",
+    "difficulty": 1
+  },
+  {
+    "id": "E75",
+    "topic": "examples",
+    "stem": "Ví dụ 75: Minh hoạ nào đúng về phủ định của phủ định?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Startup thất bại → rút kinh nghiệm → tái khởi nghiệp thành công"
+      },
+      {
+        "id": "o2",
+        "text": "Phủ định sạch trơn mọi kinh nghiệm cũ"
+      },
+      {
+        "id": "o3",
+        "text": "Giữ nguyên mô hình cũ qua các năm"
+      },
+      {
+        "id": "o4",
+        "text": "Thay đổi logo sản phẩm"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Kế thừa hạt nhân hợp lý và vượt qua hạn chế, phát triển theo hình xoáy ốc.",
+    "difficulty": 1
+  },
+  {
+    "id": "E76",
+    "topic": "examples",
+    "stem": "Ví dụ 76: Phát biểu nào phản ánh đúng quan hệ bản chất - hiện tượng?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Giấy quỳ tím đổi màu thể hiện tính axit/bazơ của dung dịch"
+      },
+      {
+        "id": "o2",
+        "text": "Trang trí đẹp quyết định hoàn toàn chất lượng sản phẩm"
+      },
+      {
+        "id": "o3",
+        "text": "Hiện tượng luôn tách rời bản chất"
+      },
+      {
+        "id": "o4",
+        "text": "Bản chất thay đổi theo ngoại hình"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Tính axit/bazơ (bản chất) bộc lộ qua hiện tượng đổi màu.",
+    "difficulty": 2
+  },
+  {
+    "id": "E77",
+    "topic": "examples",
+    "stem": "Ví dụ 77: Tình huống nào cho thấy cái chung tồn tại trong cái riêng?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Cùng giống cây nhưng mỗi cây lớn nhanh chậm khác nhau"
+      },
+      {
+        "id": "o2",
+        "text": "Một viên đá bất động mãi mãi"
+      },
+      {
+        "id": "o3",
+        "text": "Sao chổi biến mất vĩnh viễn"
+      },
+      {
+        "id": "o4",
+        "text": "Một chiếc ghế bị hỏng"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Thuộc tính chung (quy luật sinh trưởng) biểu hiện trong từng cá thể cụ thể.",
+    "difficulty": 1
+  },
+  {
+    "id": "E78",
+    "topic": "examples",
+    "stem": "Ví dụ 78: Tình huống nào thể hiện rõ quan hệ nguyên nhân - kết quả?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Bón phân đúng cách giúp năng suất tăng"
+      },
+      {
+        "id": "o2",
+        "text": "Trời nhiều mây"
+      },
+      {
+        "id": "o3",
+        "text": "Một người cười"
+      },
+      {
+        "id": "o4",
+        "text": "Đổi phông chữ tài liệu"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Tác động bón phân (nguyên nhân) sinh ra kết quả tăng năng suất.",
+    "difficulty": 1
+  },
+  {
+    "id": "E79",
+    "topic": "examples",
+    "stem": "Ví dụ 79: Nhận định nào minh hoạ quan hệ tất nhiên - ngẫu nhiên?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Mùa lũ đến hằng năm nhưng mực nước từng ngày biến động khó đoán"
+      },
+      {
+        "id": "o2",
+        "text": "Mọi việc đều hoàn toàn ngẫu nhiên"
+      },
+      {
+        "id": "o3",
+        "text": "Chỉ có tất nhiên mới tồn tại"
+      },
+      {
+        "id": "o4",
+        "text": "Không có mối liên hệ giữa chúng"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Quy luật mùa (tất nhiên) biểu hiện qua nhiều biến cố ngẫu nhiên từng ngày.",
+    "difficulty": 1
+  },
+  {
+    "id": "E80",
+    "topic": "examples",
+    "stem": "Ví dụ 80: Khi nào một khả năng trở thành hiện thực?",
+    "options": [
+      {
+        "id": "o1",
+        "text": "Khi hội đủ điều kiện cần và đủ"
+      },
+      {
+        "id": "o2",
+        "text": "Khi cá nhân rất muốn"
+      },
+      {
+        "id": "o3",
+        "text": "Khi xoá hết rủi ro"
+      },
+      {
+        "id": "o4",
+        "text": "Tự động theo thời gian"
+      }
+    ],
+    "answer": "o1",
+    "explanation": "Khả năng chuyển hoá thành hiện thực khi điều kiện tương ứng được thoả mãn.",
+    "difficulty": 1
+  }
+]

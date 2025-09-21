@@ -1,0 +1,1 @@
+{"root":["./vite.config.ts","./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/answerfeedback.tsx","./src/components/gamehud.tsx","./src/components/homehero.tsx","./src/components/questioncard.tsx","./src/components/resultsummary.tsx","./src/components/settingsdialog.tsx","./src/components/timercircle.tsx","./src/store/gamestore.ts"],"version":"5.8.3"}
